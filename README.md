@@ -1,2 +1,2 @@
 # learn365
-This repository contains all the information shared during my Learn365 Challenge. This challenge will help me stay consistent and push myself to learn new things in the infosec world :computer:. Stay updated with my Learn365 series on Twitter: [bhavesharmalkar](https://twitter.com/bhavesharmalkar) 
+This repository contains all the information shared during my Learn365 Challenge. This challenge will help me stay consistent and push myself to learn new things in the infosec world :computer:. Stay updated with my Learn365 series on Twitter: [bhavesharmalkar](https://twitter.com/bhavesharmalkar). Special thanks to [Harsh Bothra](https://twitter.com/harshbothra_), from whoam I got motivated to start this Learn365 challenge.
