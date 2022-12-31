@@ -13,3 +13,12 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
  </tr>
 </table>
 <hr>
+
+<!-- Days start -->
+
+<table>
+ <tr>
+  <th>Day</th>
+  <th>Topic</th>
+ </tr>
+</table>
