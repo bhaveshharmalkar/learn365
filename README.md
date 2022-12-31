@@ -1,5 +1,5 @@
 # learn365
-This repository contains all the information shared during my <b>Learn365</b> Challenge. This challenge will help me stay consistent and push myself to learn new things in the infosec world :computer:. Stay updated with my <b>Learn365</b> series on Twitter: [bhavesharmalkar](https://twitter.com/bhavesharmalkar). Special thanks to [Harsh Bothra](https://twitter.com/harshbothra_), & [Anubhav Singh](https://twitter.com/AnubhavSingh_) from whoam I got motivated to start this <b>Learn365</b> challenge.
+This repository contains all the information shared during my <b>Learn365</b> Challenge. This challenge will help me stay consistent and push myself to learn new things in the infosec world :computer:. Stay updated with my <b>Learn365</b> series on Twitter: [bhavesharmalkar](https://twitter.com/bhavesharmalkar). Special thanks to [Harsh Bothra](https://twitter.com/harshbothra_) & [Anubhav Singh](https://twitter.com/AnubhavSingh_) from whoam I got motivated to start this <b>Learn365</b> challenge.
 
 ### Challenge Timeline
 <table>
