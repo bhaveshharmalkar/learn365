@@ -12,10 +12,17 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
    <th>31-12-2023</th>
  </tr>
 </table>
+
+
 <hr>
+<br>
+
+### :bulb: *The investment you make in yourself through learning will pay off in the long run.*
+
+<br>
 
 <!-- Days start -->
-
+<br>
 <table>
  <tr>
   <th>Day</th>
