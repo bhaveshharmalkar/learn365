@@ -25,7 +25,11 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
 <br>
 <table>
  <tr>
-  <th>Day</th>
-  <th>Topic</th>
+  <td>Day</td>
+  <td>Topic</td>
+ </tr>
+ <tr>
+  <td>Day 1 </td>
+  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day1.md">Recon00 - Recon03 exercise on Pentester Lab</a></td>
  </tr>
 </table>
