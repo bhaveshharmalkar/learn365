@@ -16,7 +16,6 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
 
 <hr>
 <br>
-t
 
 ### :bulb: *The investment you make in yourself through learning will pay off in the long run.*
 
