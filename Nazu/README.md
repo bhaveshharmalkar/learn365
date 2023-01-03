@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to the 365 Day Challenge!</h1>
-### Take part in this challenge and learn a great new skill each day.
 
 <div align="center">
 <table>
