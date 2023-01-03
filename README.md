@@ -38,6 +38,6 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
  </tr>
   <tr>
   <td>Day 3 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day2.md">Recon 08 - Recon 11 exercise on Pentester Lab</a></td>
+  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day3.md">Recon 08 - Recon 11 exercise on Pentester Lab</a></td>
  </tr>
 </table>
