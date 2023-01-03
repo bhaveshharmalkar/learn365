@@ -1,7 +1,7 @@
 # Welcome to the 365 Day Challenge! 
 ### Take part in this challenge and learn a great new skill each day.
 
-<div align="center"> ### Challenge Timeline
+<div align="center"></h3>Time-Line</h3>
 <table>
  <tr>
     <th>Start Date</th>
