@@ -1,7 +1,7 @@
 # Welcome to the 365 Day Challenge! 
 ### Take part in this challenge and learn a great new skill each day.
 
-### Challenge Timeline
+<div align="center"> ### Challenge Timeline
 <table>
  <tr>
     <th>Start Date</th>
@@ -12,6 +12,7 @@
    <th>31-12-2023</th>
  </tr>
 </table>
+</div>
 
 
 > I'll become a full-fledged hacker and software engineer by the end of the year.
