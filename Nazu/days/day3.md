@@ -1,4 +1,4 @@
-# Web & Network Pen-Testing and Security Questions
+# Web App and Network Pen-Testing Questions
 
 Practicing Questions can certainly help you to improve your understanding.
 
