@@ -14,5 +14,5 @@
 </div>
 
 
-> I'll become a full-fledged hacker and software engineer by the end of the year.
+> *I'll become a full-fledged hacker and software engineer by the end of the year*:bulb:
 >> If you dare to begin, you will find the way to succeed. Focus on yourself and learn from your own experience--that's the only path to true greatness.
