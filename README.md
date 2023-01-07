@@ -52,4 +52,8 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
   <td>Day 6 </td>
   <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day6.md">Read write-ups on Recon</a></td>
  </tr>
+ <tr>
+  <td>Day 7 </td>
+  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day7.md">Read about authentication vulnerabilities</a></td>
+ </tr>
 </table>
