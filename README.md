@@ -25,8 +25,8 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
 <br>
 <table>
  <tr>
-  <td>Day</td>
-  <td>Topic</td>
+  <td align="center">Day</td>
+  <td align="center">Topic</td>
  </tr>
  <tr>
   <td>Day 1 </td>
