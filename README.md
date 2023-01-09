@@ -56,7 +56,12 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
   <td>Day 7 </td>
   <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day7.md">Read about authentication vulnerabilities</a></td>
  </tr>
+ <tr>
  <td>Day 8 </td>
   <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day8.md">Solve 3 authentication labs on the portswigger lab</a></td>
+ </tr>
+ <tr>
+ <td>Day 9 </td>
+  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day9.md">Solve 2 authentication labs on the portswigger lab and read blog</a></td>
  </tr>
 </table>
