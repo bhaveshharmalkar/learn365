@@ -27,3 +27,4 @@ Day | Topic
 **7** | [**<ul><li>Read about authentication vulnerabilities</li></ul>**](/Days/Day7.md)
 **8** | [**<ul><li>Solve 3 authentication labs on the portswigger lab</li></ul>**](/Days/Day8.md)
 **9** | [**<ul><li>Solve 2 authentication labs on the portswigger lab</li></ul><ul><li>Read blog on Account Takeover</li></ul>**](/Days/Day9.md)
+**10** | [**<ul><li>Solve 2 authentication labs on the portswigger lab</li></ul><ul><li>Read blog on Bug Bounty</li></ul>**](/Days/Day10.md)
