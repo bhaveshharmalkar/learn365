@@ -2,17 +2,9 @@
 This repository contains all the information shared during my <b>Learn365</b> Challenge. This challenge will help me stay consistent and push myself to learn new things in the infosec world :computer:. Stay updated with my <b>Learn365</b> series on Twitter: [Bhavesh Harmalkar](https://twitter.com/bhavesharmalkar). Special thanks to [Harsh Bothra](https://twitter.com/harshbothra_) & [Anubhav Singh](https://twitter.com/AnubhavSingh_) from whoam I got motivated to start this <b>Learn365</b> challenge.
 
 ### Challenge Timeline
-<table>
- <tr>
-    <th>Start Date</th>
-    <th>End Date</th>
- </tr>
- <tr>
-   <th>1-1-2023</th>
-   <th>31-12-2023</th>
- </tr>
-</table>
-
+**Start Date** | **End Date**
+---            | ---
+**1-1-2023**   |  **31-12-2023**
 
 <hr>
 <br>
@@ -23,45 +15,15 @@ This repository contains all the information shared during my <b>Learn365</b> Ch
 
 <!-- Days start -->
 <br>
-<table>
- <tr>
-  <td align="center">Day</td>
-  <td align="center">Topic</td>
- </tr>
- <tr>
-  <td>Day 1 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day1.md">Recon 00 - Recon 03 exercise on Pentester Lab</a></td>
- </tr>
-  <tr>
-  <td>Day 2 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day2.md">Recon 04 - Recon 07 exercise on Pentester Lab</a></td>
- </tr>
-  <tr>
-  <td>Day 3 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day3.md">Recon 08 - Recon 11 exercise on Pentester Lab</a></td>
- </tr>
-  <tr>
-  <td>Day 4 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day4.md">Recon 12 - Recon 16 exercise on Pentester Lab</a></td>
- </tr>
-  <tr>
-  <td>Day 5 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day5.md">Recon 17 - Recon 26 exercise on Pentester Lab</a></td>
- </tr>
-  <tr>
-  <td>Day 6 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day6.md">Read write-ups on Recon</a></td>
- </tr>
- <tr>
-  <td>Day 7 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day7.md">Read about authentication vulnerabilities</a></td>
- </tr>
- <tr>
- <td>Day 8 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day8.md">Solve 3 authentication labs on the portswigger lab</a></td>
- </tr>
- <tr>
- <td>Day 9 </td>
-  <td><a href="https://github.com/bhaveshharmalkar/learn365/blob/main/Days/Day9.md">Solve 2 authentication labs on the portswigger lab and read blog</a></td>
- </tr>
-</table>
+
+Day | Topic
+--- | ---
+**1** | [**<ul><li>Recon 00 - Recon 03 exercise on Pentester Lab</li></ul>**](/Days/Day1.md)
+**2** | [**<ul><li>Recon 04 - Recon 07 exercise on Pentester Lab</li></ul>**](/Days/Day2.md)
+**3** | [**<ul><li>Recon 08 - Recon 11 exercise on Pentester Lab</li></ul>**](/Days/Day3.md)
+**4** | [**<ul><li>Recon 12 - Recon 16 exercise on Pentester Lab</li></ul>**](/Days/Day4.md)
+**5** | [**<ul><li>Recon 17 - Recon 26 exercise on Pentester Lab</li></ul>**](/Days/Day5.md)
+**6** | [**<ul><li>Read write-ups on Recon</li></ul>**](/Days/Day6.md)
+**7** | [**<ul><li>Read about authentication vulnerabilities</li></ul>**](/Days/Day7.md)
+**8** | [**<ul><li>Solve 3 authentication labs on the portswigger lab</li></ul>**](/Days/Day8.md)
+**9** | [**<ul><li>Solve 2 authentication labs on the portswigger lab</li></ul><ul><li>Read blog on Account Takeover</li></ul>**](/Days/Day9.md)
