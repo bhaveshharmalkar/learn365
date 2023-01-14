@@ -10,7 +10,7 @@
    directory.
 ```
 
-#### [<ul><li><Unprotected admin functionality with unpredictable URL</li></ul>](https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url)
+#### [<ul><li>Unprotected admin functionality with unpredictable URL</li></ul>](https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url)
 ```
 -> In this lab admin panel URL are disclosed in the source code. After ctrl+u we saw that URL in the javascript function.
 ```
