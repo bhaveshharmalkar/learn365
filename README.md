@@ -31,3 +31,4 @@ Day | Topic
 **11** | [**<ul><li>Read write-ups on Authentication Vulnerabilities</li></ul>**](/Days/Day11.md)
 **12** | [**<ul><li>Read about Access Control vulnerabilities</li></ul>**](/Days/Day12.md)
 **13** | [**<ul><li>Solve 4 access control labs on the portswigger lab</li></ul><ul><li>Read blog on Bypassing authorization in Google Cloud Workstations</li></ul>**](/Days/Day13.md)
+**14** | [**<ul><li>Solve 4 access control labs on the portswigger lab</li></ul><ul><li>Read reports on IDOR</li></ul>**](/Days/Day14.md)
