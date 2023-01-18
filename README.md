@@ -35,3 +35,4 @@ Day | Topic
 **15** | [**<ul><li>Read blogs on IDOR</li></ul>**](/Days/Day15.md)
 **16** | [**<ul><li>Solve 5 access control labs on the portswigger lab</li></ul><ul><li>Read blogs on IDOR</li></ul>**](/Days/Day16.md)
 **17** | [**<ul><li>Read blog: I Found Information Exposed In GitHub,What Next?</li></ul>**](/Days/Day17.md)
+**18** | [**<ul><li>Read random blogs</li></ul>**](/Days/Day18.md)
