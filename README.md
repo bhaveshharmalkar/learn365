@@ -37,3 +37,4 @@ Day | Topic
 **17** | [**<ul><li>Read blog: I Found Information Exposed In GitHub,What Next?</li></ul>**](/Days/Day17.md)
 **18** | [**<ul><li>Read random blogs</li></ul>**](/Days/Day18.md)
 **19** | [**<ul><li>Read thread on IDOR</li></ul>**](/Days/Day19.md)
+**20** | [**<ul><li>Read blogs</li></ul>**](/Days/Day20.md)
