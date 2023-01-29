@@ -2,4 +2,4 @@
 
 </br>
 
-#### [<li><ul>Exploiting Hardcoded Keys to achieve RCE in Yellowfin BI</li></ul>](https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce)
+#### [<ul><li>Exploiting Hardcoded Keys to achieve RCE in Yellowfin BI</li></ul>](https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/)
