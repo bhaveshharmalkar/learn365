@@ -39,3 +39,4 @@ Day | Topic
 **19** | [**<ul><li>Read thread on IDOR</li></ul>**](/Days/Day19.md)
 **20** | [**<ul><li>Read blogs</li></ul>**](/Days/Day20.md)
 **21** | [**<ul><li>Read blogs on IDOR</li></ul>**](/Days/Day21.md)
+**22** | [**<ul><li>Read random blogs</li></ul>**](/Days/Day22.md)
