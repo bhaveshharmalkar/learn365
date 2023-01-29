@@ -41,3 +41,5 @@ Day | Topic
 **21** | [**<ul><li>Read blogs on IDOR</li></ul>**](/Days/Day21.md)
 **22** | [**<ul><li>Read random blogs</li></ul>**](/Days/Day22.md)
 **23** | [**<ul><li>Watched videos on Broken Access Control & IDOR</li></ul>**](/Days/Day23.md)
+**24** | [**<ul><li>Read blog</li></ul>**](/Days/Day24.md)
+**25** | [**<ul><li>Read thread & blog</li></ul>**](/Days/Day25.md)
