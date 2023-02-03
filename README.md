@@ -45,3 +45,5 @@ Day | Topic
 **25** | [**<ul><li>Read thread & blog</li></ul>**](/Days/Day25.md)
 **26** | [**<ul><li>Read blog</li></ul>**](/Days/Day26.md)
 **27** | [**<ul><li>Read thread & blog</li></ul>**](/Days/Day27.md)
+**28** | [**<ul><li>Read thread & blog</li></ul>**](/Days/Day28.md)
+**29** | [**<ul><li>Read blog</li></ul>**](/Days/Day29.md)
