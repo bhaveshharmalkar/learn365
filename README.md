@@ -50,3 +50,6 @@ Day | Topic
 **31** | [**<ul><li>Read blogs</li></ul>**](/Days/Day31.md)
 **32** | [**<ul><li>Read blog</li></ul>**](/Days/Day32.md)
 **33** | [**<ul><li>Read thread</li></ul>**](/Days/Day33.md)
+**34** | [**<ul><li>Read blog</li></ul>**](/Days/Day34.md)
+**35** | [**<ul><li>Read thread & blog</li></ul>**](/Days/Day35.md)
+**36** | [**<ul><li>Read blog</li></ul>**](/Days/Day36.md)
