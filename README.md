@@ -57,3 +57,4 @@ Day | Topic
 **38** | [**<ul><li>Read thread & blogs</li></ul>**](/Days/Day38.md)
 **39** | [**<ul><li>Read about Information Disclosure vulnerabilities</li></ul>**](/Days/Day39.md)
 **40** | [**<ul><li>Solve 2 Information Disclosure labs on the portswigger lab</li></ul><ul><li>Read blog</li></ul>**](/Days/Day40.md)
+**41** | [**<ul><li>Solve 3 Information Disclosure labs on the portswigger lab</li></ul><ul><li>Read blogs on IDOR</li></ul>**](/Days/Day41.md)
