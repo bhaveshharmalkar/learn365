@@ -61,3 +61,4 @@ Day | Topic
 **42** | [**<ul><li>Information Disclosure reports on Hackerone</li></ul>**](/Days/Day42.md)
 **43** | [**<ul><li>Information Disclosure videos & reports</li></ul>**](/Days/Day43.md)
 **44** | [**<ul><li>Information Disclosure blogs</li></ul>**](/Days/Day44.md)
+**45** | [**<ul><li>Tips for finding Information Disclosure vulnerability</li></ul>**](/Days/Day45.md)
