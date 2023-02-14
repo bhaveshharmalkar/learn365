@@ -60,3 +60,4 @@ Day | Topic
 **41** | [**<ul><li>Solve 3 Information Disclosure labs on the portswigger lab</li></ul>**](/Days/Day41.md)
 **42** | [**<ul><li>Information Disclosure reports on Hackerone</li></ul>**](/Days/Day42.md)
 **43** | [**<ul><li>Information Disclosure videos & reports</li></ul>**](/Days/Day43.md)
+**44** | [**<ul><li>Information Disclosure blogs</li></ul>**](/Days/Day44.md)
