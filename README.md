@@ -62,4 +62,4 @@ Day | Topic
 **43** | [**<ul><li>Information Disclosure videos & reports</li></ul>**](/Days/Day43.md)
 **44** | [**<ul><li>Information Disclosure blogs</li></ul>**](/Days/Day44.md)
 **45** | [**<ul><li>Tips for finding Information Disclosure vulnerability</li></ul>**](/Days/Day45.md)
-**46** | [**<ul><li>Video on API Information Disclosure</li></ul>**](/Days/Day46.md)
+**46** | [**<ul><li>Video on API Information Disclosure</li></ul>**](https://www.youtube.com/watch?v=X_JTdIkfKow&ab_channel=TheCyberMentor)
