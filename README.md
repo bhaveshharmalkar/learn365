@@ -71,3 +71,5 @@ Day | Topic
 **52** | [**<ul><li>Hacking with ChatGPT: Ideal Tasks and Use-Cases</li></ul>**](https://rez0.blog/hacking/2023/02/21/hacking-with-chatgpt.html)
 **53** | [**<ul><li> How I found DOM-Based XSS on Microsoft MSRC and How they fixed it</li></ul>**](https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82)
 **54** | [**<ul><li>Hacking GraphQL API Using Suggestions</li></ul>**](https://rashahacks.com/hacking-graphql-api-using-suggestions/)
+**55** | [**<ul><li>Bypassing SSO Authentication from the Login Without Password Feature Lead to Account Takeover</li></ul>**](https://aidilarf.medium.com/bypassing-sso-authentication-from-the-login-without-password-feature-lead-to-account-takeover-d2322a33a208)
+**56** | [**<ul><li>How I Used JS files inspection and Fuzzing to do admins/supports stuff</li></ul>**](https://medium.com/@bag0zathev2/how-i-used-js-files-inspection-and-fuzzing-to-do-admins-supports-stuff-dd4f700605a)
