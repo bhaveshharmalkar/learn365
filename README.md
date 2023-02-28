@@ -74,4 +74,5 @@ Day | Topic
 **55** | [**<ul><li>Bypassing SSO Authentication from the Login Without Password Feature Lead to Account Takeover</li></ul>**](https://aidilarf.medium.com/bypassing-sso-authentication-from-the-login-without-password-feature-lead-to-account-takeover-d2322a33a208)
 **56** | [**<ul><li>How I Used JS files inspection and Fuzzing to do admins/supports stuff</li></ul>**](https://medium.com/@bag0zathev2/how-i-used-js-files-inspection-and-fuzzing-to-do-admins-supports-stuff-dd4f700605a)
 **57** | [**<ul><li>How i was able to find Django Misconfiguration using Shodan</li></ul>**](https://medium.com/@fattselimi/how-i-was-able-to-find-django-misconfiguration-using-shodan-3929942a3940)
-**58** | [**<ul><li> $10.000 bounty for exposed .git to RCE</li></ul>**](https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54)
+**58** | [**<ul><li>$10.000 bounty for exposed .git to RCE</li></ul>**](https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54)
+**59** | [**<ul><li>Business logic vulnerabilities </li></ul>**](Days/Day59.md)
