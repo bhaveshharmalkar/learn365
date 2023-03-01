@@ -76,3 +76,4 @@ Day | Topic
 **57** | [**<ul><li>How i was able to find Django Misconfiguration using Shodan</li></ul>**](https://medium.com/@fattselimi/how-i-was-able-to-find-django-misconfiguration-using-shodan-3929942a3940)
 **58** | [**<ul><li>$10.000 bounty for exposed .git to RCE</li></ul>**](https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54)
 **59** | [**<ul><li>Business logic vulnerabilities </li></ul>**](Days/Day59.md)
+**60** | [**<ul><li>Solved 3 logic flaws labs on the portswigger</li></ul>**](/Days/Day60.md)
