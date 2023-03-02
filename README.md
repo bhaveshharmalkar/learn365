@@ -77,3 +77,4 @@ Day | Topic
 **58** | [**<ul><li>$10.000 bounty for exposed .git to RCE</li></ul>**](https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54)
 **59** | [**<ul><li>Business logic vulnerabilities </li></ul>**](Days/Day59.md)
 **60** | [**<ul><li>Solved 3 logic flaws labs on the portswigger</li></ul>**](/Days/Day60.md)
+**61** | [**<ul><li>Solved 3 logic flaws labs on the portswigger</li></ul>**](/Days/Day61.md)
