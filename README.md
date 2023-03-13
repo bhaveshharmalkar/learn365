@@ -88,3 +88,4 @@ Day | Topic
 **69** | [**<ul><li>The Story of Becoming a Super Admin</li></ul>**](https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3)
 **70** | [**<ul><li>Bugging Out: My Experience of Earning $300 for Reporting an Unexpected Bug</li></ul>**](https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc)
 **71** | [**<ul><li>I Earned $3500 and 40 Points for A GraphQL Blind SQL Injection Vulnerability.</li></ul>**](https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d)
+**72** | [**<ul><li>I QUIT RECON... and made $10,000 in bounties!</li></ul>**](https://www.youtube.com/watch?v=XuunRT1DDZs&ab_channel=NahamSec)
