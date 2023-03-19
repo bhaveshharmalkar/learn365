@@ -91,3 +91,7 @@ Day | Topic
 **72** | [**<ul><li>I QUIT RECON... and made $10,000 in bounties!</li></ul>**](https://www.youtube.com/watch?v=XuunRT1DDZs&ab_channel=NahamSec)
 **73** | [**<ul><li>How to Bug Bounty in 2023</li></ul>**](https://www.youtube.com/watch?v=FDeuOhE5MhU&ab_channel=NahamSec)
 **74** | [**<ul><li>Utilizing The Burp-Suite Pentest Mapper Plugin V1.6.5</li></ul>**](https://payatu.com/blog/utilizing-the-burp-suite-pentest-mapper-plugin-v1-6-5/)
+**75** | [**<ul><li>How I Automate BugBounty Using Chatgp</li></ul>**](https://medium.com/@Bendelladj/how-i-automated-bugbounty-using-chatgpt-91a5907ab3aa)
+**76** | [**<ul><li>OTP Bypass India’s Biggest Finance Company.</li></ul>**](https://medium.com/@offensivesgr/otp-bypass-indias-biggest-finance-company-1e70a79ea781)
+**77** | [**<ul><li>Logical Flaw Lead to Changing Price of Any Product</li></ul>**](https://amirbyte.medium.com/logical-flaw-lead-to-changing-price-of-any-product-2cdd6edf8aef)
+**78** | [**<ul><li>Amazon cognito misconfiguration</li></ul>**](https://systemweakness.com/amazon-cognito-misconfiguration-4e90d14377c7)
