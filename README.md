@@ -96,3 +96,4 @@ Day | Topic
 **77** | [**<ul><li>Logical Flaw Lead to Changing Price of Any Product</li></ul>**](https://amirbyte.medium.com/logical-flaw-lead-to-changing-price-of-any-product-2cdd6edf8aef)
 **78** | [**<ul><li>Amazon cognito misconfiguration</li></ul>**](https://systemweakness.com/amazon-cognito-misconfiguration-4e90d14377c7)
 **79** | [**<ul><li>Easy $$$ via API params manipulation leading to bypassing the email verification block</li></ul>**](https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c)
+**80** | [**<ul><li>Price manipulation vulnerabilities</li></ul>**](https://twitter.com/intigriti/status/1637804952864145409)
