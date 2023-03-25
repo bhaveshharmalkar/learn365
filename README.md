@@ -100,3 +100,4 @@ Day | Topic
 **81** | [**<ul><li>How i found 8 vulnerabilities in 24h</li></ul>**](https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487)
 **82** | [**<ul><li>Information Disclosure — My First Finding on Hackerone!</li></ul>**](https://mehedishakeel.medium.com/information-disclosure-my-first-finding-on-hackerone-e572cc07babb)
 **83** | [**<ul><li>Unauthorized access to admin setpassword page BY bypassing 403 Forbidden</li></ul>**](https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35)
+**84** | [**<ul><li>Account takeover vulnerability in OpenAI</li></ul>**](https://twitter.com/naglinagli/status/1639343866313601024)
