@@ -102,3 +102,7 @@ Day | Topic
 **83** | [**<ul><li>Unauthorized access to admin setpassword page BY bypassing 403 Forbidden</li></ul>**](https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35)
 **84** | [**<ul><li>Account takeover vulnerability in OpenAI</li></ul>**](https://twitter.com/naglinagli/status/1639343866313601024)
 **85** | [**<ul><li>The way I found Bug LFI</li></ul>**](https://medium.com/@hackXadi/the-way-i-found-bug-lfi-bbee786023e7)
+**86** | [**<ul><li>The curl quirk that exposed Burp Suite & Google Chrome</li></ul>**](https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome)
+**87** | [**<ul><li>Hacker Interviews: rez0__</li></ul>**](https://www.youtube.com/watch?v=fOiRW0sWt4Q&ab_channel=NahamSec)
+**88** | [**<ul><li>How I earned $$$ with simple Privilege escalation</li></ul>**](https://medium.com/@hellother18/how-i-earned-with-simple-privilege-escalation-78ddb929f3ef)
+
