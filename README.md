@@ -105,4 +105,8 @@ Day | Topic
 **86** | [**<ul><li>The curl quirk that exposed Burp Suite & Google Chrome</li></ul>**](https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome)
 **87** | [**<ul><li>Hacker Interviews: rez0__</li></ul>**](https://www.youtube.com/watch?v=fOiRW0sWt4Q&ab_channel=NahamSec)
 **88** | [**<ul><li>How I earned $$$ with simple Privilege escalation</li></ul>**](https://medium.com/@hellother18/how-i-earned-with-simple-privilege-escalation-78ddb929f3ef)
-
+**89** | [**<ul><li>Admin Dashboard Access through JavaScript Code $$$</li></ul>**](https://bountytips.medium.com/admin-dashboard-access-through-javascript-code-d259d61258b8)
+**90** | [**<ul><li>CVE-2021–36560: Critical Authentication Bypass Leads to Admin Account Takeover</li></ul>**](https://systemweakness.com/cve-2021-36560-critical-authentication-bypass-leads-to-admin-account-takeover-ae5e76aa171e)
+**91** | [**<ul><li>Privilege Escalation via Broken Authentication: A Story of $$</li></ul>**](https://v3d.medium.com/privilege-escalation-via-broken-authentication-a-story-of-220588d53d93)
+**92** | [**<ul><li>How I got my 1st Swag from SIDN</li></ul>**](https://infosecwriteups.com/how-i-got-my-1st-swag-from-sidn-5a392c845755)
+**93** | [**<ul><li>Users information disclosure</li></ul>**](https://twitter.com/Tejas__1/status/1642596986133295105)
