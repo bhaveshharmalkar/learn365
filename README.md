@@ -110,7 +110,7 @@ Day | Topic
 **91** | [**<ul><li>Privilege Escalation via Broken Authentication: A Story of $$</li></ul>**](https://v3d.medium.com/privilege-escalation-via-broken-authentication-a-story-of-220588d53d93)
 **92** | [**<ul><li>How I got my 1st Swag from SIDN</li></ul>**](https://infosecwriteups.com/how-i-got-my-1st-swag-from-sidn-5a392c845755)
 **93** | [**<ul><li>Users information disclosure</li></ul>**](https://twitter.com/Tejas__1/status/1642596986133295105)
-**94** | [**<ul><li>Authentication Bypass | Easy P1 in 10 minutes</li></ul>**](https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54)
+**94** | [**<ul><li>Authentication Bypass Easy P1 in 10 minutes</li></ul>**](https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54)
 **95** | [**<ul><li>Pawning Half A dozen of Admin Panels & User Management Apps And Reporting 9–10 P1 in a day</li></ul>**](https://sudhanshukashyap123.medium.com/pawning-half-a-dozen-of-admin-panels-user-management-apps-and-reporting-9-10-p1-in-a-day-67377d7f5125)
 **96** | [**<ul><li>Uncover the Hidden Web: Discover the Power of Subfinder for Efficient Subdomain Enumeration</li></ul>**](https://medium.com/@cuncis/uncover-the-hidden-web-discover-the-power-of-subfinder-for-efficient-subdomain-enumeration-aad6fc05bcdd)
 **97** | [**<ul><li>Revealing my Private tool for Instant Bounties[Find Sensitive Info]</li></ul>**](https://debprasadbanerjee502.medium.com/revealing-my-private-tool-for-instant-bounties-find-sensitive-info-d9e166c9580a)
