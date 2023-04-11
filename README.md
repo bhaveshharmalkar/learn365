@@ -116,3 +116,5 @@ Day | Topic
 **97** | [**<ul><li>Revealing my Private tool for Instant Bounties[Find Sensitive Info]</li></ul>**](https://debprasadbanerjee502.medium.com/revealing-my-private-tool-for-instant-bounties-find-sensitive-info-d9e166c9580a)
 **98** | [**<ul><li>Disclosing assigned users of any facebook applications connected to business account</li></ul>**](https://medium.com/pentesternepal/disclosing-assigned-users-of-any-facebook-applications-connected-to-business-account-e2c3ffae8cad)
 **99** | [**<ul><li>How I was able to change password of any corporate user</li></ul>**](https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840)
+**100** | [**<ul><li>Simple Reconnaissance!!!</li></ul>**](https://dewangpanchal98.medium.com/simple-reconnaissance-9f69eb00ec83)
+**101** | [**<ul><li>OTP bypass methods</li></ul>**](https://security-sphinx.medium.com/otp-bypass-mythology-fb104e5b32af)
