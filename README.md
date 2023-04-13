@@ -118,3 +118,5 @@ Day | Topic
 **99** | [**<ul><li>How I was able to change password of any corporate user</li></ul>**](https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840)
 **100** | [**<ul><li>Simple Reconnaissance!!!</li></ul>**](https://dewangpanchal98.medium.com/simple-reconnaissance-9f69eb00ec83)
 **101** | [**<ul><li>OTP bypass methods</li></ul>**](https://security-sphinx.medium.com/otp-bypass-mythology-fb104e5b32af)
+**102** | [**<ul><li>Revealing a Logic Flaw in an E-commerce Website</li></ul>**](https://bug1ess.medium.com/revealing-a-logic-flaw-in-an-e-commerce-website-8edd7571cbf5)
+**103** | [**<ul><li>Net-banking OTP bypass in IDFC Bank but got dups</li></ul>**](https://medium.com/@offensivesgr/net-banking-otp-bypass-in-idfc-bank-but-got-dups-f2e77caf8b5c)
