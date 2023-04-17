@@ -123,3 +123,4 @@ Day | Topic
 **104** | [**<ul><li>Account Takeover By OTP Brute force</li></ul>**](https://medium.com/@gb452011/account-takeover-by-otp-brute-force-8d808a421802)
 **105** | [**<ul><li>How I got RCE in + 10 websites…</li></ul>**](https://medium.com/@m4cddr/how-i-got-rce-in-10-websites-26dd87441f22)
 **106** | [**<ul><li>Rukovoditel 3.3.1 — Remote Code Execution</li></ul>**](https://mirabbasagalarov.medium.com/rukovoditel-3-3-1-remote-code-execution-rce-a2e5d6d41ada)
+**107** | [**<ul><li>LFI to RCE via Log Poisoning</li></ul>**](https://medium.com/@josewice7/lfi-to-rce-via-log-poisoning-db3e0e7a1cf1)
