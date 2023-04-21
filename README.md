@@ -127,4 +127,4 @@ Day | Topic
 **108** | [**<ul><li>A Big company Admin Panel takeover $4500</li></ul>**](https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430)
 **109** | [**<ul><li>How Deep Recon help me to get critical Bug in Xiaomi</li></ul>**](https://medium.com/@dancat/how-deep-recon-help-me-to-get-critical-bug-in-xiaomi-1e1f0793b9f6)
 **110** | [**<ul><li>How I hacked hackers in Voorivex Hunt Event</li></ul>**](https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f)
-**111** | [**<ul><li>Bypassing Link Sharing Protection in Messenger Kids Parent’s Control Feature | Meta Bug Bounty</li></ul>**](https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9)
+**111** | [**<ul><li>Bypassing Link Sharing Protection in Messenger Kids Parent’s Control Feature Meta Bug Bounty</li></ul>**](https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9)
