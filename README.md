@@ -130,3 +130,4 @@ Day | Topic
 **110** | [**<ul><li>How I hacked hackers in Voorivex Hunt Event</li></ul>**](https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f)
 **111** | [**<ul><li>Bypassing Link Sharing Protection in Messenger Kids Parent’s Control Feature Meta Bug Bounty</li></ul>**](https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9)
 **112** | [**<ul><li>Bypassing 403s like a PRO! ($2,100): Broken Access control</li></ul>**](https://shrirangdiwakar.medium.com/bypassing-403s-like-a-pro-2-100-broken-access-control-66beef4afa8c)
+**113** | [**<ul><li>IDOR a Highest Bounty</li></ul>**](https://medium.com/@omdubey170/idor-a-highest-bounty-6dae1bb10b66)
