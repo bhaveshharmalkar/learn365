@@ -133,3 +133,4 @@ Day | Topic
 **113** | [**<ul><li>IDOR a Highest Bounty</li></ul>**](https://medium.com/@omdubey170/idor-a-highest-bounty-6dae1bb10b66)
 **114** | [**<ul><li>Exploit Privilege Escalation Like a Pro</li></ul>**](https://infosecwriteups.com/exploit-privilege-escalation-like-a-pro-a5ec6493afa6)
 **115** | [**<ul><li>SQLi in the admin login</li></ul>**](https://twitter.com/silentgh00st/status/1649461365973680159)
+**116** | [**<ul><li>IDOR + PII Leakage</li></ul>**](https://sheshasai.medium.com/idor-pii-leakage-3ad0a4ef4638)
