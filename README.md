@@ -134,3 +134,4 @@ Day | Topic
 **114** | [**<ul><li>Exploit Privilege Escalation Like a Pro</li></ul>**](https://infosecwriteups.com/exploit-privilege-escalation-like-a-pro-a5ec6493afa6)
 **115** | [**<ul><li>SQLi in the admin login</li></ul>**](https://twitter.com/silentgh00st/status/1649461365973680159)
 **116** | [**<ul><li>IDOR + PII Leakage</li></ul>**](https://sheshasai.medium.com/idor-pii-leakage-3ad0a4ef4638)
+**117** | [**<ul><li>How I was able to access a properly Configured S3 Bucket</li></ul>**](https://pawanchhabria.medium.com/how-i-was-able-to-access-a-properly-configured-s3-bucket-a0e949446341)
