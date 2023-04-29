@@ -136,3 +136,4 @@ Day | Topic
 **116** | [**<ul><li>IDOR + PII Leakage</li></ul>**](https://sheshasai.medium.com/idor-pii-leakage-3ad0a4ef4638)
 **117** | [**<ul><li>How I was able to access a properly Configured S3 Bucket</li></ul>**](https://pawanchhabria.medium.com/how-i-was-able-to-access-a-properly-configured-s3-bucket-a0e949446341)
 **118** | [**<ul><li>How I accessed the Sensitive document which I had already deleted</li></ul>**](https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25)
+**119** | [**<ul><li>A Deep Dive on Katana "Field" Extraction</li></ul>**](https://blog.projectdiscovery.io/a-deep-dive-on-katana-field-extraction/)
