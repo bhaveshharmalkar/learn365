@@ -139,3 +139,4 @@ Day | Topic
 **119** | [**<ul><li>A Deep Dive on Katana "Field" Extraction</li></ul>**](https://blog.projectdiscovery.io/a-deep-dive-on-katana-field-extraction/)
 **120** | [**<ul><li>Disclosed API key to list user information and complete Exploitation !!</li></ul>**](https://medium.com/@metikalakullai.gtl/disclosed-api-key-to-list-user-information-and-complete-exploitation-f51015447e6)
 **121** | [**<ul><li>Little bug, Big impact. 25k bounty</li></ul>**](https://blog.prodefense.io/little-bug-big-impact-25k-bounty-9e47773f959f)
+**122** | [**<ul><li>CIDR IN HACKING</li></ul>**](https://realm3ter.medium.com/cidr-in-hacking-d2e6245d74ec)
