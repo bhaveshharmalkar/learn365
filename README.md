@@ -141,3 +141,4 @@ Day | Topic
 **121** | [**<ul><li>Little bug, Big impact. 25k bounty</li></ul>**](https://blog.prodefense.io/little-bug-big-impact-25k-bounty-9e47773f959f)
 **122** | [**<ul><li>CIDR IN HACKING</li></ul>**](https://realm3ter.medium.com/cidr-in-hacking-d2e6245d74ec)
 **123** | [**<ul><li>Extensive Recon Guide For Bug Hunting</li></ul>**](https://hacklido.com/blog/398-extensive-recon-guide-for-bug-hunting)
+**124** | [**<ul><li>Accessing Admin Dashboard in 5 seconds: Hall of Fame.</li></ul>**](https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb)
