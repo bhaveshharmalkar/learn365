@@ -143,3 +143,4 @@ Day | Topic
 **123** | [**<ul><li>Extensive Recon Guide For Bug Hunting</li></ul>**](https://hacklido.com/blog/398-extensive-recon-guide-for-bug-hunting)
 **124** | [**<ul><li>Accessing Admin Dashboard in 5 seconds: Hall of Fame.</li></ul>**](https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb)
 **125** | [**<ul><li>What is BOLA? 3-digit bounty from Topcoder ($$$)</li></ul>**](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
+**126** | [**<ul><li>Simple Account Takeover Worth $9,999</li></ul>**](https://aliraza91.medium.com/simple-account-takeover-worth-9-999-2c38f5d7fe67)
