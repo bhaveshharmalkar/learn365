@@ -145,3 +145,4 @@ Day | Topic
 **125** | [**<ul><li>What is BOLA? 3-digit bounty from Topcoder ($$$)</li></ul>**](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
 **126** | [**<ul><li>Simple Account Takeover Worth $9,999</li></ul>**](https://aliraza91.medium.com/simple-account-takeover-worth-9-999-2c38f5d7fe67)
 **127** | [**<ul><li>How a simple Directory Listing leads to PII Data Leakage, Remote Code Execution and many more vulnerabilities on a HR management subdomain</li></ul>**](https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4)
+**128** | [**<ul><li>How I found my first RCE!</li></ul>**](https://t.co/HiFmM96XgN)
