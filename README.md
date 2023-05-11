@@ -146,3 +146,4 @@ Day | Topic
 **126** | [**<ul><li>Simple Account Takeover Worth $9,999</li></ul>**](https://aliraza91.medium.com/simple-account-takeover-worth-9-999-2c38f5d7fe67)
 **127** | [**<ul><li>How a simple Directory Listing leads to PII Data Leakage, Remote Code Execution and many more vulnerabilities on a HR management subdomain</li></ul>**](https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4)
 **128** | [**<ul><li>How I found my first RCE!</li></ul>**](https://t.co/HiFmM96XgN)
+**129** | [**<ul><li>RCE due to Dependency Confusion — $5000 bounty!</li></ul>**](https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f)
