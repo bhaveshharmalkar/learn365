@@ -148,3 +148,4 @@ Day | Topic
 **128** | [**<ul><li>How I found my first RCE!</li></ul>**](https://t.co/HiFmM96XgN)
 **129** | [**<ul><li>RCE due to Dependency Confusion — $5000 bounty!</li></ul>**](https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f)
 **130** | [**<ul><li>Improper Authorization</li></ul>**](https://twitter.com/silentgh00st/status/1656592544384401408?t=6Lx4ks2skcmWSdT-NwXELA&s=33)
+**131** | [**<ul><li>Subdomain Takeover leading to Full Account Takeover</li></ul>**](https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover)
