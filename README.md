@@ -152,3 +152,4 @@ Day | Topic
 **132** | [**<ul><li>One Bug at a Time: I failed my quiz on purpose to get $1,000!</li></ul>**](https://medium.com/@atomiczsec/one-bug-at-a-time-my-first-paid-bug-1-000-idor-4b89b63b2b4b)
 **133** | [**<ul><li>Reconnaissance 104: Expanded Scanning</li></ul>**](https://blog.projectdiscovery.io/reconnaissance-series-4/)
 **134** | [**<ul><li>IDOR in session cookie leading to Mass Account Takeover</li></ul>**](https://zonduu.medium.com/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5)
+**135** | [**<ul><li>SQL injection on a hidden API endpoint</li></ul>**](https://thewh0is.medium.com/sql-injection-on-a-hidden-api-endpoint-63a04b87fbc5)
