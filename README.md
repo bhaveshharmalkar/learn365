@@ -155,3 +155,4 @@ Day | Topic
 **135** | [**<ul><li>SQL injection on a hidden API endpoint</li></ul>**](https://thewh0is.medium.com/sql-injection-on-a-hidden-api-endpoint-63a04b87fbc5)
 **136** | [**<ul><li>Hardcore RCE via directory name for $3.000</li></ul>**](https://medium.com/@levshmelevv/hardcore-rce-via-directory-name-for-3-000-225ed58b41a9)
 **137** | [**<ul><li>Th3G3nt3lman Shares His Recon Methodology and How He Consistently Collects $15,000 Bounties!</li></ul>**](https://www.youtube.com/watch?v=X1fwTcfp_so&ab_channel=NahamSec)
+**138** | [**<ul><li>DOS via cache poisoning</li></ul>**](https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c)
