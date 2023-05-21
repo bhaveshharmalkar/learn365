@@ -158,3 +158,4 @@ Day | Topic
 **138** | [**<ul><li>DOS via cache poisoning</li></ul>**](https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c)
 **139** | [**<ul><li>23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</li></ul>**](https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8)
 **140** | [**<ul><li>Why You Should Always Check The Audit Log [Medium] — $500</li></ul>**](https://emanuel-beni.medium.com/why-you-should-always-check-the-audit-log-medium-500-80a778bfbcd6)
+**141** | [**<ul><li>Exploiting SQL Error SQLSTATE[42000] To Own MariaDB of A Large Online Media Leader</li></ul>**](https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf)
