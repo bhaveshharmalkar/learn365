@@ -161,3 +161,4 @@ Day | Topic
 **141** | [**<ul><li>Exploiting SQL Error SQLSTATE[42000] To Own MariaDB of A Large Online Media Leader</li></ul>**](https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf)
 **142** | [**<ul><li>I helped the top Indian health benefits management platform from major PII leak by hacking their SQL Servers, AWS instance, DCs etc.</li></ul>**](https://nav1n.medium.com/i-helped-a-top-indian-health-benefits-management-platform-from-major-pii-leak-by-hacking-their-sql-b42caeca9729)
 **143** | [**<ul><li>Azure DNS Takeover @ Swisscom</li></ul>**](https://medium.com/@husein.ayoub/azure-dns-takeover-swisscom-7c6aacb38e8)
+**144** | [**<ul><li>I Earned $3500 and 40 Points for A GraphQL Blind SQL Injection Vulnerability.</li></ul>**](https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d)
