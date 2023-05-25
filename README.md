@@ -162,3 +162,4 @@ Day | Topic
 **142** | [**<ul><li>I helped the top Indian health benefits management platform from major PII leak by hacking their SQL Servers, AWS instance, DCs etc.</li></ul>**](https://nav1n.medium.com/i-helped-a-top-indian-health-benefits-management-platform-from-major-pii-leak-by-hacking-their-sql-b42caeca9729)
 **143** | [**<ul><li>Azure DNS Takeover @ Swisscom</li></ul>**](https://medium.com/@husein.ayoub/azure-dns-takeover-swisscom-7c6aacb38e8)
 **144** | [**<ul><li>I Earned $3500 and 40 Points for A GraphQL Blind SQL Injection Vulnerability.</li></ul>**](https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d)
+**145** | [**<ul><li>How I got Owned A Multi-Billion Dollar Retailer’s MySQL Databases Using Simple SQL Injection</li></ul>**](https://nav1n.medium.com/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce)
