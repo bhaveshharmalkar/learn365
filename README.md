@@ -164,3 +164,4 @@ Day | Topic
 **144** | [**<ul><li>I Earned $3500 and 40 Points for A GraphQL Blind SQL Injection Vulnerability.</li></ul>**](https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d)
 **145** | [**<ul><li>How I got Owned A Multi-Billion Dollar Retailer’s MySQL Databases Using Simple SQL Injection</li></ul>**](https://nav1n.medium.com/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce)
 **146** | [**<ul><li>IDOR Vulnerability that exposed 17 Million user data (IDOR Diaries)</li></ul>**](https://medium.com/@suppaboy/idor-vulnerability-that-exposed-17-million-user-data-idor-diaries-f0365ffe7a75)
+**147** | [**<ul><li>Utilizing Historical URLs of an Organization to successfully execute SQL queries — Blind SQLi</li></ul>**](https://medium.com/@ar_hawk/utilizing-historical-urls-of-an-organization-to-successfully-execute-sql-queries-blind-sqli-3526d9c3863d)
