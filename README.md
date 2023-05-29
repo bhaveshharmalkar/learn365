@@ -166,3 +166,4 @@ Day | Topic
 **146** | [**<ul><li>IDOR Vulnerability that exposed 17 Million user data (IDOR Diaries)</li></ul>**](https://medium.com/@suppaboy/idor-vulnerability-that-exposed-17-million-user-data-idor-diaries-f0365ffe7a75)
 **147** | [**<ul><li>Utilizing Historical URLs of an Organization to successfully execute SQL queries — Blind SQLi</li></ul>**](https://medium.com/@ar_hawk/utilizing-historical-urls-of-an-organization-to-successfully-execute-sql-queries-blind-sqli-3526d9c3863d)
 **148** | [**<ul><li>Blind SSRF - The Hide & Seek Game</li></ul>**](https://shahjerry33.medium.com/blind-ssrf-the-hide-seek-game-da9d0ecef2fb)
+**149** | [**<ul><li>The 30000$ Bounty Affair.</li></ul>**](https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834)
