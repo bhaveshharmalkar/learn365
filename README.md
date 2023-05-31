@@ -168,3 +168,4 @@ Day | Topic
 **148** | [**<ul><li>Blind SSRF - The Hide & Seek Game</li></ul>**](https://shahjerry33.medium.com/blind-ssrf-the-hide-seek-game-da9d0ecef2fb)
 **149** | [**<ul><li>The 30000$ Bounty Affair.</li></ul>**](https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834)
 **150** | [**<ul><li>Got Access To Server through SQL Injection.</li></ul>**](https://systemweakness.com/got-access-to-server-through-sql-injection-72e949992ec8)
+**151** | [**<ul><li>How I bypassed Two-Factor Authentication with 3 different methods on the same target</li></ul>**](https://elgllad.medium.com/how-i-bypassed-two-factor-authentication-3-times-on-the-same-target-b157cf1814fa)
