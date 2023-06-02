@@ -170,3 +170,4 @@ Day | Topic
 **150** | [**<ul><li>Got Access To Server through SQL Injection.</li></ul>**](https://systemweakness.com/got-access-to-server-through-sql-injection-72e949992ec8)
 **151** | [**<ul><li>How I bypassed Two-Factor Authentication with 3 different methods on the same target</li></ul>**](https://elgllad.medium.com/how-i-bypassed-two-factor-authentication-3-times-on-the-same-target-b157cf1814fa)
 **152** | [**<ul><li>Weird Improper Access Control Bug of $$$</li></ul>**](https://medium.com/@anksec/weird-improper-access-control-bug-of-9cbceb8e039f)
+**153** | [**<ul><li>Exploiting SSRF like a Boss — Escalation of an SSRF to Local File Read!</li></ul>**](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)
