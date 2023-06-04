@@ -172,3 +172,4 @@ Day | Topic
 **152** | [**<ul><li>Weird Improper Access Control Bug of $$$</li></ul>**](https://medium.com/@anksec/weird-improper-access-control-bug-of-9cbceb8e039f)
 **153** | [**<ul><li>Exploiting SSRF like a Boss — Escalation of an SSRF to Local File Read!</li></ul>**](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)
 **154** | [**<ul><li>The Tale of a Command Injection by Changing the Logo</li></ul>**](https://infosecwriteups.com/command-injection-by-changing-the-logo-2d730887ab6c)
+**155** | [**<ul><li>How a misconfigured Lotus Domino Server can lead to Disclosure of PII Data of Employees, Configuration Details about the Active Directory, etc</li></ul>**](https://medium.com/@ar_hawk/how-a-misconfigured-lotus-domino-server-can-lead-to-disclosure-of-pii-data-of-employees-badad691dad)
