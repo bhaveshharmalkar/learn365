@@ -174,3 +174,4 @@ Day | Topic
 **154** | [**<ul><li>The Tale of a Command Injection by Changing the Logo</li></ul>**](https://infosecwriteups.com/command-injection-by-changing-the-logo-2d730887ab6c)
 **155** | [**<ul><li>How a misconfigured Lotus Domino Server can lead to Disclosure of PII Data of Employees, Configuration Details about the Active Directory, etc</li></ul>**](https://medium.com/@ar_hawk/how-a-misconfigured-lotus-domino-server-can-lead-to-disclosure-of-pii-data-of-employees-badad691dad)
 **156** | [**<ul><li>Breaking TikTok: Our Journey to Finding an Account Takeover Vulnerability</li></ul>**](https://medium.com/@mrhavit/breaking-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-b0646aba1c4b)
+**157** | [**<ul><li>Rate Limit Bypass Leads to 0 Click ATO</li></ul>**](https://zeroxuf.medium.com/rate-limit-bypass-leads-to-0-click-ato-9f1b29daec42)
