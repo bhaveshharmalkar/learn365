@@ -177,4 +177,4 @@ Day | Topic
 **157** | [**<ul><li>Rate Limit Bypass Leads to 0 Click ATO</li></ul>**](https://zeroxuf.medium.com/rate-limit-bypass-leads-to-0-click-ato-9f1b29daec42)
 **158** | [**<ul><li>How I Found Price Manipulation of Products Vulnerability</li></ul>**](https://medium.com/@nurullaHangul/how-i-found-price-manipulation-of-products-vulnerability-4be5448c98da)
 **159** | [**<ul><li>How I was able to get account takeover via IDOR form JWT</li></ul>**](https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-idor-form-jwt-caaf7ea58aa)
-**160** | [**<ul><li></li>The Art of G-mail Hacking! → Secrets of Impersonation!</ul>**](https://7h3h4ckv157.medium.com/the-art-of-g-mail-hacking-secrets-of-impersonation-b65c2dc72f25)
+**160** | [**<ul><li>The Art of G-mail Hacking! → Secrets of Impersonation!</li></ul>**](https://7h3h4ckv157.medium.com/the-art-of-g-mail-hacking-secrets-of-impersonation-b65c2dc72f25)
