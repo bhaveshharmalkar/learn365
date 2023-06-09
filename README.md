@@ -176,3 +176,4 @@ Day | Topic
 **156** | [**<ul><li>Breaking TikTok: Our Journey to Finding an Account Takeover Vulnerability</li></ul>**](https://medium.com/@mrhavit/breaking-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-b0646aba1c4b)
 **157** | [**<ul><li>Rate Limit Bypass Leads to 0 Click ATO</li></ul>**](https://zeroxuf.medium.com/rate-limit-bypass-leads-to-0-click-ato-9f1b29daec42)
 **158** | [**<ul><li>How I Found Price Manipulation of Products Vulnerability</li></ul>**](https://medium.com/@nurullaHangul/how-i-found-price-manipulation-of-products-vulnerability-4be5448c98da)
+**159** | [**<ul><li>How I was able to get account takeover via IDOR form JWT</li></ul>**](https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-idor-form-jwt-caaf7ea58aa)
