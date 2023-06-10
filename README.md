@@ -178,3 +178,4 @@ Day | Topic
 **158** | [**<ul><li>How I Found Price Manipulation of Products Vulnerability</li></ul>**](https://medium.com/@nurullaHangul/how-i-found-price-manipulation-of-products-vulnerability-4be5448c98da)
 **159** | [**<ul><li>How I was able to get account takeover via IDOR form JWT</li></ul>**](https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-idor-form-jwt-caaf7ea58aa)
 **160** | [**<ul><li>The Art of G-mail Hacking! → Secrets of Impersonation!</li></ul>**](https://7h3h4ckv157.medium.com/the-art-of-g-mail-hacking-secrets-of-impersonation-b65c2dc72f25)
+**161** | [**<ul><li>Path traversal to RCE — Openfire — CVE-2023–32315</li></ul>**](https://learningsomecti.medium.com/path-traversal-to-rce-openfire-cve-2023-32315-6a8bf0285fcc)
