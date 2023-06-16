@@ -181,3 +181,4 @@ Day | Topic
 **161** | [**<ul><li>Path traversal to RCE — Openfire — CVE-2023–32315</li></ul>**](https://learningsomecti.medium.com/path-traversal-to-rce-openfire-cve-2023-32315-6a8bf0285fcc)
 **162** | [**<ul><li>SQL Injection in The HTTP Custom Header</li></ul>**](https://medium.com/@yoshimlutfi/sql-injection-in-the-http-custom-header-fd117ba1435e)
 **163** | [**<ul><li>IDOR, unpin posts for fun.</li></ul>**](https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24)
+**164** | [**<ul><li>Pwning Admin Panel To Change Movie Ticket Prices at Disney</li></ul>**](https://rashahacks.com/pwning-admin-panel-to-change-movie-ticket-prices-at-disney/)
