@@ -183,3 +183,4 @@ Day | Topic
 **163** | [**<ul><li>IDOR, unpin posts for fun.</li></ul>**](https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24)
 **164** | [**<ul><li>Pwning Admin Panel To Change Movie Ticket Prices at Disney</li></ul>**](https://rashahacks.com/pwning-admin-panel-to-change-movie-ticket-prices-at-disney/)
 **165** | [**<ul><li>An interesting 'dependency confusion' attack on</li></ul>**](https://twitter.com/AseemShrey/status/1668649550763151361)
+**166** | [**<ul><li>PII Data Leakage and US$1500 Bounty</li></ul>**](https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76)
