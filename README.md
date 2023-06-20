@@ -185,3 +185,4 @@ Day | Topic
 **165** | [**<ul><li>An interesting 'dependency confusion' attack on</li></ul>**](https://twitter.com/AseemShrey/status/1668649550763151361)
 **166** | [**<ul><li>PII Data Leakage and US$1500 Bounty</li></ul>**](https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76)
 **167** | [**<ul><li>Best approach to Error-Based SQL injection</li></ul>**](https://medium.com/@anekantsinghai/best-approach-to-error-based-sql-injection-30c73fd8fa41)
+**168** | [**<ul><li>How Searching by IP Addresses Can Reveal Hidden Gems</li></ul>**](https://medium.com/@cuncis/how-searching-by-ip-addresses-can-reveal-hidden-gems-e58b46e6fdc8)
