@@ -188,3 +188,4 @@ Day | Topic
 **168** | [**<ul><li>How Searching by IP Addresses Can Reveal Hidden Gems</li></ul>**](https://medium.com/@cuncis/how-searching-by-ip-addresses-can-reveal-hidden-gems-e58b46e6fdc8)
 **169** | [**<ul><li>How I was able to send Emails Using Anyone’s Email Address via the Contact Us Functionality</li></ul>**](https://medium.com/@ranveerdesai1234/how-i-was-able-to-send-emails-using-anyones-email-address-via-the-contact-us-functionality-a4df1e895bb9)
 **170** | [**<ul><li>How I Unveiled a Critical Vulnerability: Exposing All Buyers’ Invoices PII with a Single Trick</li></ul>**](https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a)
+**171** | [**<ul><li>Hijacking S3 Buckets: New Attack Technique Exploited in the Wild by Supply Chain Attackers </li></ul>**](https://checkmarx.com/blog/hijacking-s3-buckets-new-attack-technique-exploited-in-the-wild-by-supply-chain-attackers/)
