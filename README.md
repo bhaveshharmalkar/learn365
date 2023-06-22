@@ -190,3 +190,4 @@ Day | Topic
 **170** | [**<ul><li>How I Unveiled a Critical Vulnerability: Exposing All Buyers’ Invoices PII with a Single Trick</li></ul>**](https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a)
 **171** | [**<ul><li>Hijacking S3 Buckets: New Attack Technique Exploited in the Wild by Supply Chain Attackers </li></ul>**](https://checkmarx.com/blog/hijacking-s3-buckets-new-attack-technique-exploited-in-the-wild-by-supply-chain-attackers/)
 **172** | [**<ul><li>The Unexpected “0” Master ID for Account Data Manipulation</li></ul>**](https://medium.com/@YoKoKho/the-unexpected-0-master-id-for-account-data-manipulation-1cb69112de38)
+**173** | [**<ul><li>Get a Feel of JWT ( JSON Web Token )</li></ul>**](https://anubhav-singh.medium.com/get-a-feel-of-jwt-json-web-token-8ee9c16ce5ce)
