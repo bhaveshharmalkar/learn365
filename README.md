@@ -193,3 +193,4 @@ Day | Topic
 **173** | [**<ul><li>Get a Feel of JWT ( JSON Web Token )</li></ul>**](https://anubhav-singh.medium.com/get-a-feel-of-jwt-json-web-token-8ee9c16ce5ce)
 **174** | [**<ul><li>Attacks on JSON Web Token (JWT)</li></ul>**](https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e)
 **175** | [**<ul><li>Exploiting Exposed Tokens and API Keys: Edition 2023</li></ul>**](https://adityashende17.medium.com/exploiting-exposed-tokens-and-api-keys-edition-2023-e894a3af7dcd)
+**176** | [**<ul><li>The Power of Shodan - Leveraging Shodan for Critical Vulnerabilities</li></ul>**](https://twitter.com/thebinarybot/status/1670836343281270787)
