@@ -195,3 +195,4 @@ Day | Topic
 **175** | [**<ul><li>Exploiting Exposed Tokens and API Keys: Edition 2023</li></ul>**](https://adityashende17.medium.com/exploiting-exposed-tokens-and-api-keys-edition-2023-e894a3af7dcd)
 **176** | [**<ul><li>The Power of Shodan - Leveraging Shodan for Critical Vulnerabilities</li></ul>**](https://twitter.com/thebinarybot/status/1670836343281270787)
 **177** | [**<ul><li>My first two valid and rewarded Web Cache Deceptions, earning $2250</li></ul>**](https://medium.com/@hbenja47/my-first-two-valid-and-rewarded-web-cache-deceptions-earning-2250-c8d2a6968713)
+**178** | [**<ul><li>How BAC(Broken Access Control) got me a Pre Account Takeover</li></ul>**](https://bharat-singh.medium.com/how-bac-broken-access-control-got-me-a-pre-account-takeover-2481931b7b3a)
