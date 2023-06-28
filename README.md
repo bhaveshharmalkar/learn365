@@ -196,3 +196,4 @@ Day | Topic
 **176** | [**<ul><li>The Power of Shodan - Leveraging Shodan for Critical Vulnerabilities</li></ul>**](https://twitter.com/thebinarybot/status/1670836343281270787)
 **177** | [**<ul><li>My first two valid and rewarded Web Cache Deceptions, earning $2250</li></ul>**](https://medium.com/@hbenja47/my-first-two-valid-and-rewarded-web-cache-deceptions-earning-2250-c8d2a6968713)
 **178** | [**<ul><li>How BAC(Broken Access Control) got me a Pre Account Takeover</li></ul>**](https://bharat-singh.medium.com/how-bac-broken-access-control-got-me-a-pre-account-takeover-2481931b7b3a)
+**179** | [**<ul><li>Account Takeover: Unraveling IDOR + Stored XSS Flaws in an NFT Marketplace</li></ul>**](https://medium.com/@pratiky054/account-takeover-unraveling-idor-stored-xss-flaws-in-an-nft-marketplace-158679660fa7)
