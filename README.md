@@ -199,3 +199,4 @@ Day | Topic
 **179** | [**<ul><li>Account Takeover: Unraveling IDOR + Stored XSS Flaws in an NFT Marketplace</li></ul>**](https://medium.com/@pratiky054/account-takeover-unraveling-idor-stored-xss-flaws-in-an-nft-marketplace-158679660fa7)
 **180** | [**<ul><li>My First Valid Report and Reward in BugBounty</li></ul>**](https://noobsixt9.medium.com/my-first-valid-report-and-reward-in-bugbounty-58b91a9909ec)
 **181** | [**<ul><li>Weakness of Integration</li></ul>**](https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672)
+
