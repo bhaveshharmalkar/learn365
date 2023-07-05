@@ -200,4 +200,5 @@ Day | Topic
 **180** | [**<ul><li>My First Valid Report and Reward in BugBounty</li></ul>**](https://noobsixt9.medium.com/my-first-valid-report-and-reward-in-bugbounty-58b91a9909ec)
 **181** | [**<ul><li>Weakness of Integration</li></ul>**](https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672)
 **182** | [**<ul><li>How i was able to get Account Takeover via Insecure Data Storage and WebView With Exported Activity</li></ul>**](https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80)
+**183** | [**<ul><li>I received a bounty of $60 for finding a critical bug in the patient management system.</li></ul>**](https://krishnadevpmelevila.medium.com/i-received-a-bounty-of-60-for-finding-a-critical-bug-in-the-patient-management-system-560446c534e)
 
