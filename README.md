@@ -205,4 +205,5 @@ Day | Topic
 **185** | [**<ul><li>Story Of My First RCE</li></ul>**](https://medium.com/@0utlawh4ck3r/story-of-my-first-rce-9d74373fbc11)
 **186** | [**<ul><li>Account Takeover (ATO) via Manipulation of the Change Password Funcionality</li></ul>**](https://medium.com/@zeckebug/account-takeover-ato-via-manipulation-of-the-change-password-funcionality-cc33d6249cdf)
 **187** | [**<ul><li>A $1,000,000 bounty? The KuCoin User Information Leak</li></ul>**](https://medium.com/@Ekenejoseph/a-1-000-000-bounty-the-kucoin-user-information-leak-141fc39614dd)
+**188** | [**<ul><li>Account takeover hidden in Javascript files.</li></ul>**](https://medium.com/@omarahmed_13016/account-takeover-hidden-in-javascript-files-3a7e3773304)
 
