@@ -204,4 +204,5 @@ Day | Topic
 **184** | [**<ul><li>Exploiting Non-Cloud SSRF for More Fun & Profit</li></ul>**](https://basu-banakar.medium.com/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8)
 **185** | [**<ul><li>Story Of My First RCE</li></ul>**](https://medium.com/@0utlawh4ck3r/story-of-my-first-rce-9d74373fbc11)
 **186** | [**<ul><li>Account Takeover (ATO) via Manipulation of the Change Password Funcionality</li></ul>**](https://medium.com/@zeckebug/account-takeover-ato-via-manipulation-of-the-change-password-funcionality-cc33d6249cdf)
+**187** | [**<ul><li>A $1,000,000 bounty? The KuCoin User Information Leak</li></ul>**](https://medium.com/@Ekenejoseph/a-1-000-000-bounty-the-kucoin-user-information-leak-141fc39614dd)
 
