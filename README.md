@@ -207,4 +207,5 @@ Day | Topic
 **187** | [**<ul><li>A $1,000,000 bounty? The KuCoin User Information Leak</li></ul>**](https://medium.com/@Ekenejoseph/a-1-000-000-bounty-the-kucoin-user-information-leak-141fc39614dd)
 **188** | [**<ul><li>Account takeover hidden in Javascript files.</li></ul>**](https://medium.com/@omarahmed_13016/account-takeover-hidden-in-javascript-files-3a7e3773304)
 **189** | [**<ul><li>10 tips for crushing bug bounties</li></ul>**](https://hakluke.com/10-tips-for-crushing-bug-bounties/)
+**190** | [**<ul><li>IDOR To Delete Hall Of Fame Page.</li></ul>**](https://medium.com/@pratikkaran/idor-to-delete-hall-of-fame-page-273724bd03ed)
 
