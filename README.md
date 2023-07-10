@@ -208,4 +208,5 @@ Day | Topic
 **188** | [**<ul><li>Account takeover hidden in Javascript files.</li></ul>**](https://medium.com/@omarahmed_13016/account-takeover-hidden-in-javascript-files-3a7e3773304)
 **189** | [**<ul><li>10 tips for crushing bug bounties</li></ul>**](https://hakluke.com/10-tips-for-crushing-bug-bounties/)
 **190** | [**<ul><li>IDOR To Delete Hall Of Fame Page.</li></ul>**](https://medium.com/@pratikkaran/idor-to-delete-hall-of-fame-page-273724bd03ed)
+**191** | [**<ul><li>How I got Two RCE at EPAM-Bounty Program</li></ul>**](https://0xbartita.medium.com/how-i-got-two-rce-at-epam-bounty-program-389eb9fc7938)
 
