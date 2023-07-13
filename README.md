@@ -211,3 +211,4 @@ Day | Topic
 **191** | [**<ul><li>How I got Two RCE at EPAM-Bounty Program</li></ul>**](https://0xbartita.medium.com/how-i-got-two-rce-at-epam-bounty-program-389eb9fc7938)
 **192** | [**<ul><li>Get All your Clickjacking Vulnerability Triaged with this Exploitation!</li></ul>**](https://ajaksecurity.medium.com/get-all-your-clickjacking-vulnerability-triaged-with-this-exploitation-c91cac952cb6)
 **193** | [**<ul><li>Exploiting Time-Based SQL Injections: Data Exfiltration</li></ul>**](https://medium.com/@vikramroot/exploiting-time-based-sql-injections-data-exfiltration-791aa7f0ae87)
+**194** | [**<ul><li>An interesting RCE on a Synack Red Team target!</li></ul>**](https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04)
