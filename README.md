@@ -213,3 +213,4 @@ Day | Topic
 **193** | [**<ul><li>Exploiting Time-Based SQL Injections: Data Exfiltration</li></ul>**](https://medium.com/@vikramroot/exploiting-time-based-sql-injections-data-exfiltration-791aa7f0ae87)
 **194** | [**<ul><li>An interesting RCE on a Synack Red Team target!</li></ul>**](https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04)
 **195** | [**<ul><li>Server Side Request Forgery(SSRF){port issue hidden approch }</li></ul>**](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)
+**196** | [**<ul><li>Unveiling Vulnerabilities: How I Earned My First Bounty by Securing my Favorite Cyber Security YouTuber’s Website</li></ul>**](https://anupamsimonmasih.medium.com/unveiling-vulnerabilities-how-i-earned-my-first-bounty-by-securing-my-favorite-cyber-security-c9884e2bd11d)
