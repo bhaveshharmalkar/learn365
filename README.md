@@ -212,3 +212,4 @@ Day | Topic
 **192** | [**<ul><li>Get All your Clickjacking Vulnerability Triaged with this Exploitation!</li></ul>**](https://ajaksecurity.medium.com/get-all-your-clickjacking-vulnerability-triaged-with-this-exploitation-c91cac952cb6)
 **193** | [**<ul><li>Exploiting Time-Based SQL Injections: Data Exfiltration</li></ul>**](https://medium.com/@vikramroot/exploiting-time-based-sql-injections-data-exfiltration-791aa7f0ae87)
 **194** | [**<ul><li>An interesting RCE on a Synack Red Team target!</li></ul>**](https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04)
+**195** | [**<ul><li>Server Side Request Forgery(SSRF){port issue hidden approch }</li></ul>**](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)
