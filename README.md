@@ -216,3 +216,4 @@ Day | Topic
 **196** | [**<ul><li>Unveiling Vulnerabilities: How I Earned My First Bounty by Securing my Favorite Cyber Security YouTuber’s Website</li></ul>**](https://anupamsimonmasih.medium.com/unveiling-vulnerabilities-how-i-earned-my-first-bounty-by-securing-my-favorite-cyber-security-c9884e2bd11d)
 **197** | [**<ul><li>The Ultimate Recon-book</li></ul>**](https://medium.com/@vflexo/the-ultimate-recon-book-d201d722db64)
 **198** | [**<ul><li>Blind SQL injection with a little WAF</li></ul>**](https://kair0s3.medium.com/blind-sql-injection-with-a-little-waf-871e69d06e2c)
+**199** | [**<ul><li>Chaining Multiple Website Vulnerabilities: My First Bug Hunt</li></ul>**](https://mrknight.medium.com/chaining-multiple-website-vulnerabilities-my-first-bug-hunt-628721499897)
