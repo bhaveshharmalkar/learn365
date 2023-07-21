@@ -218,3 +218,4 @@ Day | Topic
 **198** | [**<ul><li>Blind SQL injection with a little WAF</li></ul>**](https://kair0s3.medium.com/blind-sql-injection-with-a-little-waf-871e69d06e2c)
 **199** | [**<ul><li>Chaining Multiple Website Vulnerabilities: My First Bug Hunt</li></ul>**](https://mrknight.medium.com/chaining-multiple-website-vulnerabilities-my-first-bug-hunt-628721499897)
 **200** | [**<ul><li>Understanding, Detecting, and Exploiting SSRF</li></ul>**](https://t.co/pCRwCSYO0S)
+**201** | [**<ul><li>How I was Able To Bypass The Admin Panel</li></ul>**](https://medium.com/@mohameddiv77/how-i-was-able-to-bypass-the-admin-panel-9a5a81e2ec11)
