@@ -219,3 +219,4 @@ Day | Topic
 **199** | [**<ul><li>Chaining Multiple Website Vulnerabilities: My First Bug Hunt</li></ul>**](https://mrknight.medium.com/chaining-multiple-website-vulnerabilities-my-first-bug-hunt-628721499897)
 **200** | [**<ul><li>Understanding, Detecting, and Exploiting SSRF</li></ul>**](https://t.co/pCRwCSYO0S)
 **201** | [**<ul><li>How I was Able To Bypass The Admin Panel</li></ul>**](https://medium.com/@mohameddiv77/how-i-was-able-to-bypass-the-admin-panel-9a5a81e2ec11)
+**202** | [**<ul><li>Breaking Down SSRF on PDF Generation: A Pentesting Guide</li></ul>**](https://xcheater.medium.com/breaking-down-ssrf-on-pdf-generation-a-pentesting-guide-66f8a309bf3c)
