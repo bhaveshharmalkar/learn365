@@ -221,3 +221,4 @@ Day | Topic
 **201** | [**<ul><li>How I was Able To Bypass The Admin Panel</li></ul>**](https://medium.com/@mohameddiv77/how-i-was-able-to-bypass-the-admin-panel-9a5a81e2ec11)
 **202** | [**<ul><li>Breaking Down SSRF on PDF Generation: A Pentesting Guide</li></ul>**](https://xcheater.medium.com/breaking-down-ssrf-on-pdf-generation-a-pentesting-guide-66f8a309bf3c)
 **203** | [**<ul><li>How a single quote (‘) may potentially destruct one of a biggest public transportation business</li></ul>**](https://medium.com/@mmaulanaabdullah/how-a-single-quote-may-potentially-destruct-one-of-a-biggest-public-transportation-business-2c389f2f5b62)
+**204** | [**<ul><li>How I Hacked the Department of Telecommunications?</li></ul>**](https://krishnadevpmelevila.medium.com/how-i-hacked-the-department-of-telecommunications-59e50a57da93)
