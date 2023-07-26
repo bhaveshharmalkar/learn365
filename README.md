@@ -224,3 +224,4 @@ Day | Topic
 **204** | [**<ul><li>How I Hacked the Department of Telecommunications?</li></ul>**](https://krishnadevpmelevila.medium.com/how-i-hacked-the-department-of-telecommunications-59e50a57da93)
 **205** | [**<ul><li>Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway (Part 2)</li></ul>**](https://blog.assetnote.io/2023/07/24/citrix-rce-part-2-cve-2023-3519/)
 **206** | [**<ul><li>How I found Subdomain Takeover on Red Bull</li></ul>**](https://medium.com/@neverl0gbughunt/how-i-found-subdomain-takeover-on-red-bull-57540158a18)
+**207** | [**<ul><li>How I was able to takeover 4000+ users account</li></ul>**](https://medium.com/@cyber.jemin/how-i-was-able-to-takeover-4000-users-account-964cfd9acc4d)
