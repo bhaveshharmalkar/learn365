@@ -225,3 +225,4 @@ Day | Topic
 **205** | [**<ul><li>Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway (Part 2)</li></ul>**](https://blog.assetnote.io/2023/07/24/citrix-rce-part-2-cve-2023-3519/)
 **206** | [**<ul><li>How I found Subdomain Takeover on Red Bull</li></ul>**](https://medium.com/@neverl0gbughunt/how-i-found-subdomain-takeover-on-red-bull-57540158a18)
 **207** | [**<ul><li>How I was able to takeover 4000+ users account</li></ul>**](https://medium.com/@cyber.jemin/how-i-was-able-to-takeover-4000-users-account-964cfd9acc4d)
+**208** | [**<ul><li>How I found two api vulnerabilities by analyzing JS source code</li></ul>**](https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f)
