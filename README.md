@@ -227,3 +227,4 @@ Day | Topic
 **207** | [**<ul><li>How I was able to takeover 4000+ users account</li></ul>**](https://medium.com/@cyber.jemin/how-i-was-able-to-takeover-4000-users-account-964cfd9acc4d)
 **208** | [**<ul><li>How I found two api vulnerabilities by analyzing JS source code</li></ul>**](https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f)
 **209** | [**<ul><li>How I Found a Vulnerability on Google and Earned a Hall of Fame Spot</li></ul>**](https://medium.com/@rnando/how-i-found-a-vulnerability-on-google-and-earned-a-hall-of-fame-spot-7157947aacfa)
+**210** | [**<ul><li>How I was able to cause a DoS via the Application (IP Restriction roles)</li></ul>**](https://medium.com/@bag0zathev2/how-i-was-able-to-cause-a-dos-via-the-application-ip-restriction-roles-29624c17cc31)
