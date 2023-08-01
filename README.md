@@ -230,3 +230,4 @@ Day | Topic
 **210** | [**<ul><li>How I was able to cause a DoS via the Application (IP Restriction roles)</li></ul>**](https://medium.com/@bag0zathev2/how-i-was-able-to-cause-a-dos-via-the-application-ip-restriction-roles-29624c17cc31)
 **211** | [**<ul><li>Bypassing email verification of high-profile tech company ($$$)</li></ul>**](https://canmustdie.medium.com/bypassing-email-verification-of-high-profile-tech-company-e592cc4a89ce)
 **212** | [**<ul><li>How I Discovered a Critical PII Info Disclosure Bug: A Journey Through the Wayback Machine</li></ul>**](https://medium.com/@mudasserhussain1111/how-i-discovered-a-critical-pii-info-disclosure-bug-a-journey-through-the-wayback-machine-4c0cb5370eb5)
+**213** | [**<ul><li>Like a pro, navigating 403s! ($2,300): Access Issues</li></ul>**](https://devilsparadise.medium.com/like-a-pro-navigating-403s-2-300-access-issues-26d530d764ad)
