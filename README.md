@@ -233,3 +233,4 @@ Day | Topic
 **213** | [**<ul><li>Like a pro, navigating 403s! ($2,300): Access Issues</li></ul>**](https://devilsparadise.medium.com/like-a-pro-navigating-403s-2-300-access-issues-26d530d764ad)
 **214** | [**<ul><li>HeapDump to account takeover to PII Data Leak</li></ul>**](https://medium.com/@manan07/heapdump-to-account-takeover-to-pii-data-leak-6d6d4a192a19)
 **215** | [**<ul><li>Unveiling the Rate Limiting Issue: The Low Hanging Fruits Bounty Bonanza!3k$+</li></ul>**](https://medium.com/@a13h1/unveiling-the-rate-limiting-issue-the-low-hanging-fruits-bounty-bonanza-3k-ed6d52f067ab)
+**216** | [**<ul><li>Cross-Tenant Information Disclosure: Unraveling Microsoft Connections, Custom Connectors, and OAuth 2.0 in Power Automate</li></ul>**](https://fatnassifiras.medium.com/cross-tenant-information-disclosure-unraveling-microsoft-connections-custom-connectors-and-oauth-6487321d28b3)
