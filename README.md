@@ -235,3 +235,4 @@ Day | Topic
 **215** | [**<ul><li>Unveiling the Rate Limiting Issue: The Low Hanging Fruits Bounty Bonanza!3k$+</li></ul>**](https://medium.com/@a13h1/unveiling-the-rate-limiting-issue-the-low-hanging-fruits-bounty-bonanza-3k-ed6d52f067ab)
 **216** | [**<ul><li>Cross-Tenant Information Disclosure: Unraveling Microsoft Connections, Custom Connectors, and OAuth 2.0 in Power Automate</li></ul>**](https://fatnassifiras.medium.com/cross-tenant-information-disclosure-unraveling-microsoft-connections-custom-connectors-and-oauth-6487321d28b3)
 **217** | [**<ul><li>Best Approach to LFI</li></ul>**](https://medium.com/@anekantsinghai/best-approach-to-lfi-40c91f1dfc54)
+**218** | [**<ul><li>Mastering Small Scope Programs: A Comprehensive Guide for Bug Hunting</li></ul>**](https://akashhamal0x01.medium.com/mastering-small-scope-programs-a-comprehensive-guide-for-bug-hunting-989c2c9106a4)
