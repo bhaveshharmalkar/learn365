@@ -236,3 +236,4 @@ Day | Topic
 **216** | [**<ul><li>Cross-Tenant Information Disclosure: Unraveling Microsoft Connections, Custom Connectors, and OAuth 2.0 in Power Automate</li></ul>**](https://fatnassifiras.medium.com/cross-tenant-information-disclosure-unraveling-microsoft-connections-custom-connectors-and-oauth-6487321d28b3)
 **217** | [**<ul><li>Best Approach to LFI</li></ul>**](https://medium.com/@anekantsinghai/best-approach-to-lfi-40c91f1dfc54)
 **218** | [**<ul><li>Mastering Small Scope Programs: A Comprehensive Guide for Bug Hunting</li></ul>**](https://akashhamal0x01.medium.com/mastering-small-scope-programs-a-comprehensive-guide-for-bug-hunting-989c2c9106a4)
+**219** | [**<ul><li>Mastering the Realm of GraphQL Exploitation</li></ul>**](https://7h3h4ckv157.medium.com/mastering-the-realm-of-graphql-exploitation-a12ed5e04263)
