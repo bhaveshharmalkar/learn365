@@ -238,3 +238,4 @@ Day | Topic
 **218** | [**<ul><li>Mastering Small Scope Programs: A Comprehensive Guide for Bug Hunting</li></ul>**](https://akashhamal0x01.medium.com/mastering-small-scope-programs-a-comprehensive-guide-for-bug-hunting-989c2c9106a4)
 **219** | [**<ul><li>Mastering the Realm of GraphQL Exploitation</li></ul>**](https://7h3h4ckv157.medium.com/mastering-the-realm-of-graphql-exploitation-a12ed5e04263)
 **220** | [**<ul><li>Attacking Misconfigure Spring Boot Actuators</li></ul>**](https://medium.com/@gguzelkokar.mdbf15/attacking-misconfigure-spring-boot-actuators-962a0cf8fcbe)
+**221** | [**<ul><li>PII-nacles of Discovery: Deep Recon, Fourth-Level Subdomains, and Abusing Exposed .git Repositories</li></ul>**](https://medium.com/@armandjasharaj/pii-nacles-of-discovery-deep-recon-fourth-level-subdomains-and-abusing-exposed-git-repositories-7e282442bd02)
