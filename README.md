@@ -239,3 +239,4 @@ Day | Topic
 **219** | [**<ul><li>Mastering the Realm of GraphQL Exploitation</li></ul>**](https://7h3h4ckv157.medium.com/mastering-the-realm-of-graphql-exploitation-a12ed5e04263)
 **220** | [**<ul><li>Attacking Misconfigure Spring Boot Actuators</li></ul>**](https://medium.com/@gguzelkokar.mdbf15/attacking-misconfigure-spring-boot-actuators-962a0cf8fcbe)
 **221** | [**<ul><li>PII-nacles of Discovery: Deep Recon, Fourth-Level Subdomains, and Abusing Exposed .git Repositories</li></ul>**](https://medium.com/@armandjasharaj/pii-nacles-of-discovery-deep-recon-fourth-level-subdomains-and-abusing-exposed-git-repositories-7e282442bd02)
+**222** | [**<ul><li>Finding “BAC - IDOR -PE” Within a Minute using Autorize Tool</li></ul>**](https://medium.com/@Cyber_siva/finding-bac-idor-pe-within-a-minute-using-autorize-tool-5aad4f0b563f)
