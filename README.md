@@ -240,3 +240,4 @@ Day | Topic
 **220** | [**<ul><li>Attacking Misconfigure Spring Boot Actuators</li></ul>**](https://medium.com/@gguzelkokar.mdbf15/attacking-misconfigure-spring-boot-actuators-962a0cf8fcbe)
 **221** | [**<ul><li>PII-nacles of Discovery: Deep Recon, Fourth-Level Subdomains, and Abusing Exposed .git Repositories</li></ul>**](https://medium.com/@armandjasharaj/pii-nacles-of-discovery-deep-recon-fourth-level-subdomains-and-abusing-exposed-git-repositories-7e282442bd02)
 **222** | [**<ul><li>Finding “BAC - IDOR -PE” Within a Minute using Autorize Tool</li></ul>**](https://medium.com/@Cyber_siva/finding-bac-idor-pe-within-a-minute-using-autorize-tool-5aad4f0b563f)
+**223** | [**<ul><li>Templating the Unthinkable: From Injection to Remote Control</li></ul>**](https://medium.com/@wanderervoid9/templating-the-unthinkable-from-injection-to-remote-control-8b4a03f60df)
