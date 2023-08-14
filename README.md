@@ -243,3 +243,4 @@ Day | Topic
 **223** | [**<ul><li>Templating the Unthinkable: From Injection to Remote Control</li></ul>**](https://medium.com/@wanderervoid9/templating-the-unthinkable-from-injection-to-remote-control-8b4a03f60df)
 **224** | [**<ul><li>Gone in a Click: IDOR Vulnerabilities in Image Upload Function</li></ul>**](https://medium.com/@rootxyash/gone-in-a-click-idor-vulnerabilities-in-image-upload-function-6c4817b44d8c)
 **225** | [**<ul><li>How I Discovered Over 40+ Impactful Vulnerabilities Within 1 Hour, Just for Fun!</li></ul>**](https://medium.com/@takshalpentester/how-i-discovered-over-40-impactful-vulnerabilities-within-1-hour-just-for-fun-a26eeaa75461)
+**226** | [**<ul><li>Special Characters Manipulating in BugBounty</li></ul>**](https://medium.com/@bag0zathev2/title-7c4cb8b49b23)
