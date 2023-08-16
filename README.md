@@ -245,3 +245,4 @@ Day | Topic
 **225** | [**<ul><li>How I Discovered Over 40+ Impactful Vulnerabilities Within 1 Hour, Just for Fun!</li></ul>**](https://medium.com/@takshalpentester/how-i-discovered-over-40-impactful-vulnerabilities-within-1-hour-just-for-fun-a26eeaa75461)
 **226** | [**<ul><li>Special Characters Manipulating in BugBounty</li></ul>**](https://medium.com/@bag0zathev2/title-7c4cb8b49b23)
 **227** | [**<ul><li>Unveiling Vulnerabilities: Host-header injection in OAuth Functionality</li></ul>**](https://medium.com/@iamxali/unveiling-vulnerabilities-host-header-injection-in-oauth-functionality-4ec80557ada7)
+**228** | [**<ul><li>10 Technical Tips with Hx01</li></ul>**](https://www.bugcrowd.com/resources/levelup/10-technical-tips-with-hx01/)
