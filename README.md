@@ -246,3 +246,4 @@ Day | Topic
 **226** | [**<ul><li>Special Characters Manipulating in BugBounty</li></ul>**](https://medium.com/@bag0zathev2/title-7c4cb8b49b23)
 **227** | [**<ul><li>Unveiling Vulnerabilities: Host-header injection in OAuth Functionality</li></ul>**](https://medium.com/@iamxali/unveiling-vulnerabilities-host-header-injection-in-oauth-functionality-4ec80557ada7)
 **228** | [**<ul><li>10 Technical Tips with Hx01</li></ul>**](https://www.bugcrowd.com/resources/levelup/10-technical-tips-with-hx01/)
+**229** | [**<ul><li>Customer account takeover in Shopify stores</li></ul>**](https://ophionsecurity.com/blog/shopify-acount-takeover)
