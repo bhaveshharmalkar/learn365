@@ -251,3 +251,4 @@ Day | Topic
 **231** | [**<ul><li>An IDOR lead joins any group makes me $2,500</li></ul>**](https://infosecwriteups.com/an-idor-leads-join-any-group-makes-me-2-500-406eb9e463a3)
 **232** | [**<ul><li>My first Bounty Worth $$$$</li></ul>**](https://medium.com/@interesting047/my-first-bounty-worth-a3fec87ce06)
 **233** | [**<ul><li>The Ticket Hack: Free travel by hacking the Chennai Metro Rail.</li></ul>**](https://infosecwriteups.com/the-ticket-hack-free-travel-by-hacking-the-chennai-metro-rail-6ddaf5457ecf)
+**234** | [**<ul><li>Bypass Two-Factor Authentication of Facebook Accounts ($25,300)</li></ul>**](https://www.linkedin.com/pulse/bypass-two-factor-authentication-facebook-accounts-25300-bazzoun/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
