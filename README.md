@@ -253,3 +253,4 @@ Day | Topic
 **233** | [**<ul><li>The Ticket Hack: Free travel by hacking the Chennai Metro Rail.</li></ul>**](https://infosecwriteups.com/the-ticket-hack-free-travel-by-hacking-the-chennai-metro-rail-6ddaf5457ecf)
 **234** | [**<ul><li>Bypass Two-Factor Authentication of Facebook Accounts ($25,300)</li></ul>**](https://www.linkedin.com/pulse/bypass-two-factor-authentication-facebook-accounts-25300-bazzoun/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 **235** | [**<ul><li>How to expand your attack surface and avoid duplicates</li></ul>**](https://mux0xx.medium.com/how-to-expand-your-attack-surface-and-avoid-duplicates-6c5b01f32b93)
+**236** | [**<ul><li>Compromised servers and downloaded source codes of a company</li></ul>**](https://twitter.com/silentgh00st/status/1693921851372654798)
