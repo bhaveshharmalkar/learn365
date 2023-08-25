@@ -254,3 +254,4 @@ Day | Topic
 **234** | [**<ul><li>Bypass Two-Factor Authentication of Facebook Accounts ($25,300)</li></ul>**](https://www.linkedin.com/pulse/bypass-two-factor-authentication-facebook-accounts-25300-bazzoun/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 **235** | [**<ul><li>How to expand your attack surface and avoid duplicates</li></ul>**](https://mux0xx.medium.com/how-to-expand-your-attack-surface-and-avoid-duplicates-6c5b01f32b93)
 **236** | [**<ul><li>Compromised servers and downloaded source codes of a company</li></ul>**](https://twitter.com/silentgh00st/status/1693921851372654798)
+**237** | [**<ul><li>I've made $500k+ from SSRF vulnerabilities.</li></ul>**](https://twitter.com/hacker_/status/1694554700555981176?t=AbssleoaJNfVw0AB4O_fbQ&s=19)
