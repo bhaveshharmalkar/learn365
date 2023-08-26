@@ -255,3 +255,4 @@ Day | Topic
 **235** | [**<ul><li>How to expand your attack surface and avoid duplicates</li></ul>**](https://mux0xx.medium.com/how-to-expand-your-attack-surface-and-avoid-duplicates-6c5b01f32b93)
 **236** | [**<ul><li>Compromised servers and downloaded source codes of a company</li></ul>**](https://twitter.com/silentgh00st/status/1693921851372654798)
 **237** | [**<ul><li>I've made $500k+ from SSRF vulnerabilities.</li></ul>**](https://twitter.com/hacker_/status/1694554700555981176?t=AbssleoaJNfVw0AB4O_fbQ&s=19)
+**238** | [**<ul><li>Privilege Escalation to Super Admin</li></ul>**](https://bharat-singh.medium.com/privilege-escalation-to-super-admin-22cb6a09c1d9)
