@@ -257,3 +257,4 @@ Day | Topic
 **237** | [**<ul><li>I've made $500k+ from SSRF vulnerabilities.</li></ul>**](https://twitter.com/hacker_/status/1694554700555981176?t=AbssleoaJNfVw0AB4O_fbQ&s=19)
 **238** | [**<ul><li>Privilege Escalation to Super Admin</li></ul>**](https://bharat-singh.medium.com/privilege-escalation-to-super-admin-22cb6a09c1d9)
 **239** | [**<ul><li>How i got more than 100 vulnerabilities in just one site?</li></ul>**](https://0xm5awy.medium.com/how-i-got-more-than-100-vulnerabilities-in-just-one-site-zseano-challenge-19bd783fdebf)
+**240** | [**<ul><li>How a Shodan search led to Gold Mine</li></ul>**](https://medium.com/@anirudhkrishna012/how-a-shodan-search-led-to-gold-mine-b1b6e4457212)
