@@ -259,3 +259,4 @@ Day | Topic
 **239** | [**<ul><li>How i got more than 100 vulnerabilities in just one site?</li></ul>**](https://0xm5awy.medium.com/how-i-got-more-than-100-vulnerabilities-in-just-one-site-zseano-challenge-19bd783fdebf)
 **240** | [**<ul><li>How a Shodan search led to Gold Mine</li></ul>**](https://medium.com/@anirudhkrishna012/how-a-shodan-search-led-to-gold-mine-b1b6e4457212)
 **241** | [**<ul><li>Exploiting Wildcard for Privilege Escalation</li></ul>**](https://www.hackingarticles.in/exploiting-wildcard-for-privilege-escalation/)
+**242** | [**<ul><li>Stealing Login Credentials using HTTP Request Smuggling</li></ul>**](https://jineeshak.github.io/posts/Request-smuggling/)
