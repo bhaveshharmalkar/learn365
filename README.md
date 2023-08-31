@@ -260,3 +260,4 @@ Day | Topic
 **240** | [**<ul><li>How a Shodan search led to Gold Mine</li></ul>**](https://medium.com/@anirudhkrishna012/how-a-shodan-search-led-to-gold-mine-b1b6e4457212)
 **241** | [**<ul><li>Exploiting Wildcard for Privilege Escalation</li></ul>**](https://www.hackingarticles.in/exploiting-wildcard-for-privilege-escalation/)
 **242** | [**<ul><li>Stealing Login Credentials using HTTP Request Smuggling</li></ul>**](https://jineeshak.github.io/posts/Request-smuggling/)
+**243** | [**<ul><li>I was able to see all user information by manipulating parameters on the website.</li></ul>**](https://security-sphinx.medium.com/i-was-able-to-see-all-user-information-by-manipulating-parameters-on-the-website-ff4aae68c04e)
