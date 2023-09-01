@@ -261,3 +261,4 @@ Day | Topic
 **241** | [**<ul><li>Exploiting Wildcard for Privilege Escalation</li></ul>**](https://www.hackingarticles.in/exploiting-wildcard-for-privilege-escalation/)
 **242** | [**<ul><li>Stealing Login Credentials using HTTP Request Smuggling</li></ul>**](https://jineeshak.github.io/posts/Request-smuggling/)
 **243** | [**<ul><li>I was able to see all user information by manipulating parameters on the website.</li></ul>**](https://security-sphinx.medium.com/i-was-able-to-see-all-user-information-by-manipulating-parameters-on-the-website-ff4aae68c04e)
+**244** | [**<ul><li>Leaking File Contents with a Blind File Oracle in Flarum</li></ul>**](https://blog.assetnote.io/2023/08/28/leaking-file-contents-with-a-blind-file-oracle-in-flarum/)
