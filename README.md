@@ -263,3 +263,4 @@ Day | Topic
 **243** | [**<ul><li>I was able to see all user information by manipulating parameters on the website.</li></ul>**](https://security-sphinx.medium.com/i-was-able-to-see-all-user-information-by-manipulating-parameters-on-the-website-ff4aae68c04e)
 **244** | [**<ul><li>Leaking File Contents with a Blind File Oracle in Flarum</li></ul>**](https://blog.assetnote.io/2023/08/28/leaking-file-contents-with-a-blind-file-oracle-in-flarum/)
 **245** | [**<ul><li>Arbitrary account takeover vulnerability</li></ul>**](https://twitter.com/Rhynorater/status/1695419201152749920?t=0ANnW9-e9i9Hfd-zKBVhgg&s=19)
+**246** | [**<ul><li>RCE on Application’s Tracking Admin Panel</li></ul>**](https://medium.com/@nithissh/rce-on-applications-tracking-admin-panel-fdc7e8320366)
