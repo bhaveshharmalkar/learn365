@@ -266,3 +266,4 @@ Day | Topic
 **246** | [**<ul><li>RCE on Application’s Tracking Admin Panel</li></ul>**](https://medium.com/@nithissh/rce-on-applications-tracking-admin-panel-fdc7e8320366)
 **247** | [**<ul><li>How I Got Free LinkedIn Premium Membership</li></ul>**](https://anudeep-vysyaraju.medium.com/how-any-gitamite-can-get-free-linkedin-premium-membership-d4222bd1a0b3)
 **248** | [**<ul><li>Uncovering Web Cache Deception: A Missed Vulnerability in the Most Unexpected Places</li></ul>**](https://blog.agilehunt.com/blogs/security/web-cache-deception-attack-on-404-page-exposing-pii-data-to-unauthenticated-users)
+**249** | [**<ul><li>A Comprehensive Approach for Testing for SQL Injection Vulnerabilities</li></ul>**](https://infosecwriteups.com/a-comprehensive-approach-for-testing-for-sql-injection-vulnerabilities-23c8772ffba9)
