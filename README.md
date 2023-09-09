@@ -269,3 +269,4 @@ Day | Topic
 **249** | [**<ul><li>A Comprehensive Approach for Testing for SQL Injection Vulnerabilities</li></ul>**](https://infosecwriteups.com/a-comprehensive-approach-for-testing-for-sql-injection-vulnerabilities-23c8772ffba9)
 **250** | [**<ul><li>My debut with a Critical Bug: How I found my first bug (API misconfiguration)</li></ul>**](https://medium.com/@jay_rana/my-debut-with-a-critical-bug-how-i-found-my-first-bug-api-misconfiguration-2f7cadc89669)
 **251** | [**<ul><li>How I got $$$ from my First valid Bug</li></ul>**](https://medium.com/@nomad8061/how-i-got-from-my-first-valid-bug-17462f94c827)
+**252** | [**<ul><li>How .js file helped me to find and Exploit AWS Access key and Secret</li></ul>**](https://medium.com/@strikersatya2/how-js-file-helped-me-to-find-and-exploit-aws-access-key-and-secret-e09b4219831d)
