@@ -272,3 +272,4 @@ Day | Topic
 **252** | [**<ul><li>How .js file helped me to find and Exploit AWS Access key and Secret</li></ul>**](https://medium.com/@strikersatya2/how-js-file-helped-me-to-find-and-exploit-aws-access-key-and-secret-e09b4219831d)
 **253** | [**<ul><li>HTTP Request Splitting vulnerabilities exploitation</li></ul>**](https://offzone.moscow/upload/iblock/11a/sagouc86idiapdb8f29w41yaupqv6fwv.pdf)
 **254** | [**<ul><li>How do I search for Web Cache Deception?</li></ul>**](https://medium.com/@hbenja47/how-do-i-search-for-web-cache-deception-6c5f318016ca)
+**255** | [**<ul><li>Unauthenticated Massive PII Leak<li></ul>**](https://cristivlad.medium.com/unauthenticated-massive-pii-leak-d182ad3f7553)
