@@ -274,3 +274,4 @@ Day | Topic
 **254** | [**<ul><li>How do I search for Web Cache Deception?</li></ul>**](https://medium.com/@hbenja47/how-do-i-search-for-web-cache-deception-6c5f318016ca)
 **255** | [**<ul><li>Unauthenticated Massive PII Leak</li></ul>**](https://cristivlad.medium.com/unauthenticated-massive-pii-leak-d182ad3f7553)
 **256** | [**<ul><li>Privilege Escalation: How I Earned $500 by Discovering the Ability to Delete Documents as a Student</li></ul>**](https://medium.com/@a13h1/privilege-escalation-how-i-earned-500-by-discovering-the-ability-to-delete-documents-as-a-student-8cdf9eab1375)
+**257** | [**<ul><li>Mastering the Art of SQL Injection: A Comprehensive Guide</li></ul>**](https://securitycipher.medium.com/mastering-the-art-of-sql-injection-a-comprehensive-guide-ae6f3d23c74a)
