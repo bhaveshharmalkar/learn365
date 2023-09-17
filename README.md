@@ -275,3 +275,4 @@ Day | Topic
 **255** | [**<ul><li>Unauthenticated Massive PII Leak</li></ul>**](https://cristivlad.medium.com/unauthenticated-massive-pii-leak-d182ad3f7553)
 **256** | [**<ul><li>Privilege Escalation: How I Earned $500 by Discovering the Ability to Delete Documents as a Student</li></ul>**](https://medium.com/@a13h1/privilege-escalation-how-i-earned-500-by-discovering-the-ability-to-delete-documents-as-a-student-8cdf9eab1375)
 **257** | [**<ul><li>Mastering the Art of SQL Injection: A Comprehensive Guide</li></ul>**](https://securitycipher.medium.com/mastering-the-art-of-sql-injection-a-comprehensive-guide-ae6f3d23c74a)
+**258** | [**<ul><li>How to find subdomain takeover using httpx + dig</li></ul>**](https://medium.com/@DrakenKun/how-to-find-subdomain-takeover-using-httpx-dig-5c2351d380b4)
