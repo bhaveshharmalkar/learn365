@@ -279,3 +279,6 @@ Day | Topic
 **259** | [**<ul><li>Exploiting Broken Access Control Vulnerability</li></ul>**](https://medium.com/@hellother18/exploiting-broken-access-control-vulnerability-for-bounty-1fb5d0994389)
 **260** | [**<ul><li>GraphQL APIs & Enumeration Basics</li></ul>**](https://www.whiteoaksecurity.com/blog/graphql-apis-enumeration-basics/)
 **261** | [**<ul><li>How I Hacked JioNews?</li></ul>**](https://vaghelaviral.medium.com/how-i-hacked-jionews-53cec31234a7)
+**262** | [**<ul><li>OAuth Misconfiguration Leading to Unauthorized Admin Access For All Org Product</li></ul>**](https://hacktus.tech/oauth-misconfiguration-leading-to-unauthorized-admin-access-for-all-org-products)
+**263** | [**<ul><li>How I Got 4 SQLI Vulnerabilities At One Target Manually Using The Repeater Tab</li></ul>**](https://medium.com/@bug4y0u/how-i-got-4-sqli-vulnerabilities-at-one-target-manually-using-the-repeater-tab-ed4eb1f84147)
+**264** | [**<ul><li>Account takeover via misconfigured SSO [OIDC] implementation</li></ul>**](https://www.xboy.me/post/AccountTakeover)
