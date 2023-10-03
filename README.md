@@ -282,3 +282,6 @@ Day | Topic
 **262** | [**<ul><li>OAuth Misconfiguration Leading to Unauthorized Admin Access For All Org Product</li></ul>**](https://hacktus.tech/oauth-misconfiguration-leading-to-unauthorized-admin-access-for-all-org-products)
 **263** | [**<ul><li>How I Got 4 SQLI Vulnerabilities At One Target Manually Using The Repeater Tab</li></ul>**](https://medium.com/@bug4y0u/how-i-got-4-sqli-vulnerabilities-at-one-target-manually-using-the-repeater-tab-ed4eb1f84147)
 **264** | [**<ul><li>Account takeover via misconfigured SSO [OIDC] implementation</li></ul>**](https://www.xboy.me/post/AccountTakeover)
+**265** | [**<ul><li>Getting RCE in Chrome with incorrect side effect in the JIT compiler</li></ul>**](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/)
+**266** | [**<ul><li>RCE in Progress WS_FTP Ad Hoc via IIS HTTP Modules (CVE-2023-40044)</li></ul>**](https://www.assetnote.io/resources/research/rce-in-progress-ws-ftp-ad-hoc-via-iis-http-modules-cve-2023-40044)
+**267** | [**<ul><li>Beyond Base64: The Vulnerability Leaving Millions of Calls Exposed</li></ul>**](https://offsec.space/posts/beyond-base64/)
