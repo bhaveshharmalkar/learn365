@@ -285,3 +285,7 @@ Day | Topic
 **265** | [**<ul><li>Getting RCE in Chrome with incorrect side effect in the JIT compiler</li></ul>**](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/)
 **266** | [**<ul><li>RCE in Progress WS_FTP Ad Hoc via IIS HTTP Modules (CVE-2023-40044)</li></ul>**](https://www.assetnote.io/resources/research/rce-in-progress-ws-ftp-ad-hoc-via-iis-http-modules-cve-2023-40044)
 **267** | [**<ul><li>Beyond Base64: The Vulnerability Leaving Millions of Calls Exposed</li></ul>**](https://offsec.space/posts/beyond-base64/)
+**268** | [**<ul><li>Beyond Error Messages: Super Admin Deletion due to Broken Access Control (€€€)</li></ul>**](https://v3d.medium.com/beyond-error-messages-super-admin-deletion-due-to-broken-access-control-cabb66f873c3)
+**269** | [**<ul><li>$1000 Bug using simple Graphql Introspection query</li></ul>**](https://securitycipher.medium.com/1000-bug-using-simple-graphql-introspection-query-b68da8260877)
+**270** | [**<ul><li>$1,250 worth of Host Header Injection</li></ul>**](https://medium.com/@salman_bugskipper/1-250-worth-of-host-header-injection-96563a2ac7e8)
+**271** | [**<ul><li>nOAuth: Account Takeover via Microsoft Oauth</li></ul>**](https://bibek-shah.medium.com/noauth-account-takeover-via-microsoft-oauth-cc653410b886)
