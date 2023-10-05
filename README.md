@@ -289,3 +289,7 @@ Day | Topic
 **269** | [**<ul><li>$1000 Bug using simple Graphql Introspection query</li></ul>**](https://securitycipher.medium.com/1000-bug-using-simple-graphql-introspection-query-b68da8260877)
 **270** | [**<ul><li>$1,250 worth of Host Header Injection</li></ul>**](https://medium.com/@salman_bugskipper/1-250-worth-of-host-header-injection-96563a2ac7e8)
 **271** | [**<ul><li>nOAuth: Account Takeover via Microsoft Oauth</li></ul>**](https://bibek-shah.medium.com/noauth-account-takeover-via-microsoft-oauth-cc653410b886)
+**272** | [**<ul><li>Bug Bounty Hunter — Captcha Bypass #Response-to-this-Request</li></ul>**](https://medium.com/@batuhanaydinn/bug-bounty-hunter-captcha-bypass-response-to-this-request-a1438e503db6)
+**273** | [**<ul><li>403 Forbidden? No Problem, Here’s a POST XSS</li></ul>**](https://medium.com/@remmy9/403-forbidden-no-problem-heres-a-post-xss-eba84020ff70)
+**274** | [**<ul><li>One Bug at a Time: Admin Panel Access I’m now an Employee!</li></ul>**](https://medium.com/@atomiczsec/one-bug-at-a-time-admin-panel-access-im-now-an-employee-7f4c03537950)
+**275** | [**<ul><li>How to build custom scanners for web security research automation</li></ul>**](https://portswigger.net/research/how-to-build-custom-scanners-for-web-security-research-automation)
