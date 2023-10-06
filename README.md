@@ -293,3 +293,6 @@ Day | Topic
 **273** | [**<ul><li>403 Forbidden? No Problem, Here’s a POST XSS</li></ul>**](https://medium.com/@remmy9/403-forbidden-no-problem-heres-a-post-xss-eba84020ff70)
 **274** | [**<ul><li>One Bug at a Time: Admin Panel Access I’m now an Employee!</li></ul>**](https://medium.com/@atomiczsec/one-bug-at-a-time-admin-panel-access-im-now-an-employee-7f4c03537950)
 **275** | [**<ul><li>How to build custom scanners for web security research automation</li></ul>**](https://portswigger.net/research/how-to-build-custom-scanners-for-web-security-research-automation)
+**276** | [**<ul><li>XSS Steal Cookies</li></ul>**](https://melguerdawi.medium.com/xss-steal-cookies-7589818118a8)
+**277** | [**<ul><li>Privilege esclation allow user to delete pending invitation</li></ul>**](https://twitter.com/being__aman/status/1709222532988170263?t=UowSCqeGfX_hzM-ug5iCqA&s=19)
+**278** | [**<ul><li>Using cloudflare to bypass cloudflare</li></ul>**](https://certitude.consulting/blog/en/using-cloudflare-to-bypass-cloudflare/)
