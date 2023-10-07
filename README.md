@@ -296,3 +296,5 @@ Day | Topic
 **276** | [**<ul><li>XSS Steal Cookies</li></ul>**](https://melguerdawi.medium.com/xss-steal-cookies-7589818118a8)
 **277** | [**<ul><li>Privilege esclation allow user to delete pending invitation</li></ul>**](https://twitter.com/being__aman/status/1709222532988170263?t=UowSCqeGfX_hzM-ug5iCqA&s=19)
 **278** | [**<ul><li>Using cloudflare to bypass cloudflare</li></ul>**](https://certitude.consulting/blog/en/using-cloudflare-to-bypass-cloudflare/)
+**279** | [**<ul><li>P1 XSS?</li></ul>**](https://medium.com/@khode4li/p1-xss-e569b0cb2bf8)
+**280** | [**<ul><li>Multiple Organization Full account Take-over via privilege escalation</li></ul>**](https://medium.com/@gb452011/multiple-organization-full-account-take-over-via-privilege-escalation-9d164ba10444)
