@@ -298,3 +298,4 @@ Day | Topic
 **278** | [**<ul><li>Using cloudflare to bypass cloudflare</li></ul>**](https://certitude.consulting/blog/en/using-cloudflare-to-bypass-cloudflare/)
 **279** | [**<ul><li>P1 XSS?</li></ul>**](https://medium.com/@khode4li/p1-xss-e569b0cb2bf8)
 **280** | [**<ul><li>Multiple Organization Full account Take-over via privilege escalation</li></ul>**](https://medium.com/@gb452011/multiple-organization-full-account-take-over-via-privilege-escalation-9d164ba10444)
+**281** | [**<ul><li>$1120: ATO Bug in Twitter’s</li></ul>**](https://medium.com/@a13h1/1120-ato-bug-in-twitters-e6d30aa4e0e8)
