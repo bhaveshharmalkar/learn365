@@ -299,3 +299,5 @@ Day | Topic
 **279** | [**<ul><li>P1 XSS?</li></ul>**](https://medium.com/@khode4li/p1-xss-e569b0cb2bf8)
 **280** | [**<ul><li>Multiple Organization Full account Take-over via privilege escalation</li></ul>**](https://medium.com/@gb452011/multiple-organization-full-account-take-over-via-privilege-escalation-9d164ba10444)
 **281** | [**<ul><li>$1120: ATO Bug in Twitter’s</li></ul>**](https://medium.com/@a13h1/1120-ato-bug-in-twitters-e6d30aa4e0e8)
+**282** | [**<ul><li>how to dig deep to found a tricky xss via 0auth redirect in blockchain platform and get $700</li></ul>**](https://medium.com/@robert0/how-to-dig-deep-to-found-a-tricky-xss-via-0auth-redirect-in-blockchain-platform-and-get-700-490732b45584)
+**283** | [**<ul><li>Uncovering Security Vulnerabilities: A Deep Dive into an Eye-Opening Git Discovery</li></ul>**](https://sanaullahamankorai.medium.com/uncovering-security-vulnerabilities-a-deep-dive-into-an-eye-opening-git-discovery-2558ebbc544e)
