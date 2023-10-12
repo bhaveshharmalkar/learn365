@@ -303,3 +303,4 @@ Day | Topic
 **283** | [**<ul><li>Uncovering Security Vulnerabilities: A Deep Dive into an Eye-Opening Git Discovery</li></ul>**](https://sanaullahamankorai.medium.com/uncovering-security-vulnerabilities-a-deep-dive-into-an-eye-opening-git-discovery-2558ebbc544e)
 **284** | [**<ul><li>Unauthorized Access to Admin Panel & SQL Injection</li></ul>**](https://parkerzanta.medium.com/unauthorized-access-to-admin-panel-sql-injection-5c30b6e5f1f0)
 **285** | [**<ul><li>CVE-2022-4908: SOP bypass in Chrome using Navigation API</li></ul>**](https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/)
+**286** | [**<ul><li>Here is how I Do my Recon fast automated bug bounty</li>li></ul>**](https://twitter.com/0day_exploit_/status/1712068169592881168?t=24wwG0pqqTJ2YuUe_chi2Q&s=19)
