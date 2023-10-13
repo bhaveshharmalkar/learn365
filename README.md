@@ -304,3 +304,4 @@ Day | Topic
 **284** | [**<ul><li>Unauthorized Access to Admin Panel & SQL Injection</li></ul>**](https://parkerzanta.medium.com/unauthorized-access-to-admin-panel-sql-injection-5c30b6e5f1f0)
 **285** | [**<ul><li>CVE-2022-4908: SOP bypass in Chrome using Navigation API</li></ul>**](https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/)
 **286** | [**<ul><li>Here is how I Do my Recon fast automated bug bounty</li></ul>**](https://twitter.com/0day_exploit_/status/1712068169592881168?t=24wwG0pqqTJ2YuUe_chi2Q&s=19)
+**287** | [**<ul><li>Sensitive Information Leak via Forgotten .DS_Store File on redacted.com</li></ul>**](https://medium.com/@rolandhack6/sensitive-information-leak-via-forgotten-ds-store-file-on-redacted-com-b9756f3b1142)
