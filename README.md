@@ -305,3 +305,4 @@ Day | Topic
 **285** | [**<ul><li>CVE-2022-4908: SOP bypass in Chrome using Navigation API</li></ul>**](https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/)
 **286** | [**<ul><li>Here is how I Do my Recon fast automated bug bounty</li></ul>**](https://twitter.com/0day_exploit_/status/1712068169592881168?t=24wwG0pqqTJ2YuUe_chi2Q&s=19)
 **287** | [**<ul><li>Sensitive Information Leak via Forgotten .DS_Store File on redacted.com</li></ul>**](https://medium.com/@rolandhack6/sensitive-information-leak-via-forgotten-ds-store-file-on-redacted-com-b9756f3b1142)
+**288** | [**<ul><li>Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure</li></ul>**](https://medium.com/@impratikdabhi/hunting-for-hidden-treasures-unveiling-the-403-bypass-bug-bounty-adventure-%EF%B8%8F-%EF%B8%8F-c6d17a0282ac)
