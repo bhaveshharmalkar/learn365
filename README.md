@@ -306,3 +306,5 @@ Day | Topic
 **286** | [**<ul><li>Here is how I Do my Recon fast automated bug bounty</li></ul>**](https://twitter.com/0day_exploit_/status/1712068169592881168?t=24wwG0pqqTJ2YuUe_chi2Q&s=19)
 **287** | [**<ul><li>Sensitive Information Leak via Forgotten .DS_Store File on redacted.com</li></ul>**](https://medium.com/@rolandhack6/sensitive-information-leak-via-forgotten-ds-store-file-on-redacted-com-b9756f3b1142)
 **288** | [**<ul><li>Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure</li></ul>**](https://medium.com/@impratikdabhi/hunting-for-hidden-treasures-unveiling-the-403-bypass-bug-bounty-adventure-%EF%B8%8F-%EF%B8%8F-c6d17a0282ac)
+**289** | [**<ul><li>How I Exposed Instagram's Private Posts by Blocking Users</li></ul>**](https://003random.com/posts/meta-bountycon-instagram-writeup/)
+**290** | [**<ul><li>Delving into the Depths of NoSQL Injection: A Research Odyssey</li></ul>**](https://7h3h4ckv157.medium.com/delving-into-the-depths-of-nosql-injection-a-research-odyssey-f1afda14f7eb)
