@@ -308,3 +308,5 @@ Day | Topic
 **288** | [**<ul><li>Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure</li></ul>**](https://medium.com/@impratikdabhi/hunting-for-hidden-treasures-unveiling-the-403-bypass-bug-bounty-adventure-%EF%B8%8F-%EF%B8%8F-c6d17a0282ac)
 **289** | [**<ul><li>How I Exposed Instagram's Private Posts by Blocking Users</li></ul>**](https://003random.com/posts/meta-bountycon-instagram-writeup/)
 **290** | [**<ul><li>Delving into the Depths of NoSQL Injection: A Research Odyssey</li></ul>**](https://7h3h4ckv157.medium.com/delving-into-the-depths-of-nosql-injection-a-research-odyssey-f1afda14f7eb)
+**291** | [**<ul><li>The single-packet attack: making remote race-conditions 'local'</li></ul>**](https://portswigger.net/research/the-single-packet-attack-making-remote-race-conditions-local)
+**292** | [**<ul><li>How I Discovered an Exposed API Access Token in a JavaScript File, Uncovering Sensitive Company’s Internal Data</li></ul>**](https://medium.com/@abdelrahmanyousef33/how-i-discovered-an-exposed-api-access-token-in-a-javascript-file-uncovering-sensitive-company-f14524f2123e)
