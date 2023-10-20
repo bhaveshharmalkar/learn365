@@ -310,3 +310,5 @@ Day | Topic
 **290** | [**<ul><li>Delving into the Depths of NoSQL Injection: A Research Odyssey</li></ul>**](https://7h3h4ckv157.medium.com/delving-into-the-depths-of-nosql-injection-a-research-odyssey-f1afda14f7eb)
 **291** | [**<ul><li>The single-packet attack: making remote race-conditions 'local'</li></ul>**](https://portswigger.net/research/the-single-packet-attack-making-remote-race-conditions-local)
 **292** | [**<ul><li>How I Discovered an Exposed API Access Token in a JavaScript File, Uncovering Sensitive Company’s Internal Data</li></ul>**](https://medium.com/@abdelrahmanyousef33/how-i-discovered-an-exposed-api-access-token-in-a-javascript-file-uncovering-sensitive-company-f14524f2123e)
+**293** | [**<ul><li>From user to admin gaining admin panel access</li></ul>**](https://medium.com/@wajidareeb/from-user-to-admin-gaining-admin-panel-access-055b1d96b6c0)
+**294** | [**<ul><li>Account Takeover via Business Logic</li></ul>**](https://medium.com/@katmaca2014/account-takeover-via-business-logic-40b45bfa11c4)
