@@ -312,3 +312,5 @@ Day | Topic
 **292** | [**<ul><li>How I Discovered an Exposed API Access Token in a JavaScript File, Uncovering Sensitive Company’s Internal Data</li></ul>**](https://medium.com/@abdelrahmanyousef33/how-i-discovered-an-exposed-api-access-token-in-a-javascript-file-uncovering-sensitive-company-f14524f2123e)
 **293** | [**<ul><li>From user to admin gaining admin panel access</li></ul>**](https://medium.com/@wajidareeb/from-user-to-admin-gaining-admin-panel-access-055b1d96b6c0)
 **294** | [**<ul><li>Account Takeover via Business Logic</li></ul>**](https://medium.com/@katmaca2014/account-takeover-via-business-logic-40b45bfa11c4)
+**295** | [**<ul><li>Bypassing 2FA for Password Reset : By Request Manipulation 500$ Bug</li></ul>**](https://medium.com/@a13h1/bypassing-2fa-for-password-reset-by-request-manipulation-500-bug-3c6ed909322f)
+**296** | [**<ul><li>Full account takeover — Never give up</li></ul>**](https://medium.com/@facu.tha/full-account-takeover-bug-bounty-7ac02e5b910a)
