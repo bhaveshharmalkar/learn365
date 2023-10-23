@@ -314,3 +314,4 @@ Day | Topic
 **294** | [**<ul><li>Account Takeover via Business Logic</li></ul>**](https://medium.com/@katmaca2014/account-takeover-via-business-logic-40b45bfa11c4)
 **295** | [**<ul><li>Bypassing 2FA for Password Reset : By Request Manipulation 500$ Bug</li></ul>**](https://medium.com/@a13h1/bypassing-2fa-for-password-reset-by-request-manipulation-500-bug-3c6ed909322f)
 **296** | [**<ul><li>Full account takeover — Never give up</li></ul>**](https://medium.com/@facu.tha/full-account-takeover-bug-bounty-7ac02e5b910a)
+**297** | [**<ul><li>Security Vulnerabilities in CasaOS</li></ul>**](https://www.sonarsource.com/blog/security-vulnerabilities-in-casaos/)
