@@ -315,3 +315,5 @@ Day | Topic
 **295** | [**<ul><li>Bypassing 2FA for Password Reset : By Request Manipulation 500$ Bug</li></ul>**](https://medium.com/@a13h1/bypassing-2fa-for-password-reset-by-request-manipulation-500-bug-3c6ed909322f)
 **296** | [**<ul><li>Full account takeover — Never give up</li></ul>**](https://medium.com/@facu.tha/full-account-takeover-bug-bounty-7ac02e5b910a)
 **297** | [**<ul><li>Security Vulnerabilities in CasaOS</li></ul>**](https://www.sonarsource.com/blog/security-vulnerabilities-in-casaos/)
+**298** | [**<ul><li>A web cache deception chained to a CSRF, the recipe</li></ul>**](https://medium.com/@zhero_/a-web-cache-deception-chained-to-a-csrf-the-recipe-9e9a5b5f53aa)
+**299** | [**<ul><li>Business Logic Errors Can Be Your First Bug</li></ul>**](https://medium.com/@NadirSensoy/business-logic-errors-on-a-local-vdp-program-85ecb049c09f)
