@@ -317,3 +317,5 @@ Day | Topic
 **297** | [**<ul><li>Security Vulnerabilities in CasaOS</li></ul>**](https://www.sonarsource.com/blog/security-vulnerabilities-in-casaos/)
 **298** | [**<ul><li>A web cache deception chained to a CSRF, the recipe</li></ul>**](https://medium.com/@zhero_/a-web-cache-deception-chained-to-a-csrf-the-recipe-9e9a5b5f53aa)
 **299** | [**<ul><li>Business Logic Errors Can Be Your First Bug</li></ul>**](https://medium.com/@NadirSensoy/business-logic-errors-on-a-local-vdp-program-85ecb049c09f)
+**300** | [**<ul><li>Akamai Bypass! Advanced XSS.</li></ul>**](https://hosein-vita.medium.com/akamai-bypass-advanced-xss-8daedb0068f6)
+**301** | [**<ul><li>Escalating debug mode in Django to RCE, SSRF, SQLi</li></ul>**](https://blog.vidocsecurity.com/blog/escalation-of-debug-mode-in-django/)
