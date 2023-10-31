@@ -319,3 +319,5 @@ Day | Topic
 **299** | [**<ul><li>Business Logic Errors Can Be Your First Bug</li></ul>**](https://medium.com/@NadirSensoy/business-logic-errors-on-a-local-vdp-program-85ecb049c09f)
 **300** | [**<ul><li>Akamai Bypass! Advanced XSS.</li></ul>**](https://hosein-vita.medium.com/akamai-bypass-advanced-xss-8daedb0068f6)
 **301** | [**<ul><li>Escalating debug mode in Django to RCE, SSRF, SQLi</li></ul>**](https://blog.vidocsecurity.com/blog/escalation-of-debug-mode-in-django/)
+**302** | [**<ul><li>Compromising F5 BIG-IP With Request Smuggling</li></ul>**](https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/)
+**303** | [**<ul><li>DOM-based race condition: racing in the browser for fun</li></ul>**](https://blog.ryotak.net/post/dom-based-race-condition/)
