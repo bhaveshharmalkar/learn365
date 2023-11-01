@@ -321,3 +321,4 @@ Day | Topic
 **301** | [**<ul><li>Escalating debug mode in Django to RCE, SSRF, SQLi</li></ul>**](https://blog.vidocsecurity.com/blog/escalation-of-debug-mode-in-django/)
 **302** | [**<ul><li>Compromising F5 BIG-IP With Request Smuggling</li></ul>**](https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/)
 **303** | [**<ul><li>DOM-based race condition: racing in the browser for fun</li></ul>**](https://blog.ryotak.net/post/dom-based-race-condition/)
+**304** | [**<ul><li>IDOR - how to predict an identifier? Bug bounty case study</li></ul><ul><li>How to hunt on restricted web applications protected behind a login page?</li></ul>**](/Days/Day304.md)
