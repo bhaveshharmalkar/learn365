@@ -325,3 +325,4 @@ Day | Topic
 **305** | [**<ul><li>Automating Boolean SQL Injection and Evading Filters</li></ul>**](https://www.youtube.com/watch?v=mF8Q1FhnU70&ab_channel=IppSec)
 **306** | [**<ul><li>Account Takeover via Weak OTP</li></ul>**](https://cristivlad.medium.com/account-takeover-via-weak-otp-514fc8cee725)
 **307** | [**<ul><li>$7000 Bounty on a Single Web Application</li></ul><ul><li>Blog Post: Bypassing an Admin Panel with SQL Injection</li></ul>**](/Days/Day307.md)
+**308** | [**<ul><li>How I was able to find BAC on the University website leading to result dumping?</li></ul><ul><li>Graphql path traversal lead to disclosure of PII</li></ul><ul><li>How Storing Credentials in the Source Code Can Lead to Account Takeover</li></ul><ul><li>Uncovering a Vulnerability in Intercom Widget Chat Configuration</li></ul>**](/Days/Day308.md)
