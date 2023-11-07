@@ -328,3 +328,4 @@ Day | Topic
 **308** | [**<ul><li>How I was able to find BAC on the University website leading to result dumping?</li></ul><ul><li>Graphql path traversal lead to disclosure of PII</li></ul><ul><li>How Storing Credentials in the Source Code Can Lead to Account Takeover</li></ul><ul><li>Uncovering a Vulnerability in Intercom Widget Chat Configuration</li></ul>**](/Days/Day308.md)
 **309** | [**<ul><li>My $750 Privilege Escalation Bug: How I Prevented Unauthorized Role Changes.</li></ul><ul><li>How to exploit Self-Stored XSS Issues?</li></ul>**](/Days/Day309.md)
 **310** | [**<ul><li>Race Conditions with pipelining</li></ul>**](https://medium.com/@abbasheybati1/race-conditions-with-pipelining-9034358a2781)
+**311** | [**<ul><li>LFI to RCE — Bug bounty</li></ul><ul><li>Discovering and Exploiting a XML External Entity (XXE) Vulnerability in a Public Bug Bounty Program</li></ul>**](/Days/Day311.md)
