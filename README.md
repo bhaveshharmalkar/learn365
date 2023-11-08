@@ -329,3 +329,4 @@ Day | Topic
 **309** | [**<ul><li>My $750 Privilege Escalation Bug: How I Prevented Unauthorized Role Changes.</li></ul><ul><li>How to exploit Self-Stored XSS Issues?</li></ul>**](/Days/Day309.md)
 **310** | [**<ul><li>Race Conditions with pipelining</li></ul>**](https://medium.com/@abbasheybati1/race-conditions-with-pipelining-9034358a2781)
 **311** | [**<ul><li>LFI to RCE — Bug bounty</li></ul><ul><li>Discovering and Exploiting a XML External Entity (XXE) Vulnerability in a Public Bug Bounty Program</li></ul>**](/Days/Day311.md)
+**312** | [**<ul><li>Uncovering a Simple Web Cache Deception Vulnerability That Paid Off</li></ul><ul><li>How can you effectively exploit Windows IIS targets?</li></ul>**](/Days/Day312.md)
