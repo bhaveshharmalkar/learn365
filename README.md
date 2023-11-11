@@ -332,3 +332,4 @@ Day | Topic
 **312** | [**<ul><li>Uncovering a Simple Web Cache Deception Vulnerability That Paid Off</li></ul><ul><li>How can you effectively exploit Windows IIS targets?</li></ul>**](/Days/Day312.md)
 **313** | [**<ul><li>What types of DoS bugs will get you a bounty?</li></ul>**](https://www.youtube.com/watch?v=a5rqWZAIJ2s&ab_channel=BugBountyReportsExplained)
 **314** | [**<ul><li>Cloudflare Bypass leads to RXSS in Microsoft</li></ul><ul><li>Mass hunting vulnerabilities with subdomain database feature of prettyrecon</li></ul>**](/Days/Day314.md)
+**315** | [**<ul><li>Unlocking Cash: Easy P1 Bug in Grafana Dashboard with Default Credentials = €€€€</li></ul>**](https://infosecwriteups.com/unlocking-cash-easy-p1-bug-in-grafana-dashboard-with-default-credentials-fa36ddf271da)
