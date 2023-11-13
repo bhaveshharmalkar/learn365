@@ -334,3 +334,4 @@ Day | Topic
 **314** | [**<ul><li>Cloudflare Bypass leads to RXSS in Microsoft</li></ul><ul><li>Mass hunting vulnerabilities with subdomain database feature of prettyrecon</li></ul>**](/Days/Day314.md)
 **315** | [**<ul><li>Unlocking Cash: Easy P1 Bug in Grafana Dashboard with Default Credentials = €€€€</li></ul>**](https://infosecwriteups.com/unlocking-cash-easy-p1-bug-in-grafana-dashboard-with-default-credentials-fa36ddf271da)
 **316** | [**<ul><li>1200$ IDOR Flaw: Allow Attacker To Approve Project Time Tracking</li></ul><ul><li>AI Quickly Exposes 2-Minute DOM XSS in JavaScript Translation</li></ul>**](/Days/Day316.md)
+**317** | [**<ul><li>The Art Of Zendesk Hijacking</li></ul><ul><li>How I dropped a crit 0day XXE to full read SSRF in less than 6 hours.</li></ul>**](/Days/Day317.md)
