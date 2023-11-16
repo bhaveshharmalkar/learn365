@@ -336,3 +336,4 @@ Day | Topic
 **316** | [**<ul><li>1200$ IDOR Flaw: Allow Attacker To Approve Project Time Tracking</li></ul><ul><li>AI Quickly Exposes 2-Minute DOM XSS in JavaScript Translation</li></ul>**](/Days/Day316.md)
 **317** | [**<ul><li>The Art Of Zendesk Hijacking</li></ul><ul><li>How I dropped a crit 0day XXE to full read SSRF in less than 6 hours.</li></ul>**](/Days/Day317.md)
 **318** | [**<ul><li>OwnCloud OAuth Token Steal leading to CRUD Filestore Access</li></ul>**](https://tunn3l.pro/Owncloud_OAuth_Token_Steal_leading_to_CRUD_Filestore_Access.html)
+**319** | [**<ul><li>Idor That allowed me to get access to sensitive users files and share them</li></ul><ul><li>HTTP is dead... Long live HTTP?!</li></ul>**](/Days/Day319.md)
