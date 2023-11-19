@@ -340,3 +340,4 @@ Day | Topic
 **320** | [**<ul><li>How I hacked Google’s bug tracking system itself for $15,600 in bounties</li></ul><ul><li>Uncovering a crazy privilege escalation from Chrome extensions</li></ul>**](/Days/Day320.md)
 **321** | [**<ul><li>How to Generate Endless Attack Vectors on Web Applications</li></ul><ul><li>Bug bounty tip for shopping site</li></ul><ul><li>$1000 Bounty: How I scaled a Self-Redirect to an XSS in a web 3.0 system at Hackenproof</li></ul>**](/Days/Day321.md)
 **322** | [**<ul><li>Unlocking Important Resources with Email Verification Bypass</li></ul><ul><li>Takeover other user's accounts using Login with Facebook</li></ul>**](/Days/Day322.md)
+**323** | [**<ul><li>Okta for Red Teamers — Perimeter Edition</li></ul>**](https://medium.com/nickvangilder/okta-for-red-teamers-perimeter-edition-c60cb8d53f23)
