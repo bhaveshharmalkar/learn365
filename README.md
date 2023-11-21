@@ -342,3 +342,4 @@ Day | Topic
 **322** | [**<ul><li>Unlocking Important Resources with Email Verification Bypass</li></ul><ul><li>Takeover other user's accounts using Login with Facebook</li></ul>**](/Days/Day322.md)
 **323** | [**<ul><li>Okta for Red Teamers — Perimeter Edition</li></ul>**](https://medium.com/nickvangilder/okta-for-red-teamers-perimeter-edition-c60cb8d53f23)
 **324** | [**<ul><li>Account Hijacking via Invite Flows</li></ul><ul><li>Privilege Escalation: Unauthorized Low-Privilege Users Creating Feature Bundles</li></ul>**](/Days/Day324.md)
+**325** | [**<ul><li>Chaining CORS by Reflected XSS to Steal Sensitive Data</li></ul><ul><li>My First IDOR - Hiding in the Header Request</li></ul><ul><li> Where to hunt for XXE (XML External Entity)</li></ul>**](/Days/Day325.md)
