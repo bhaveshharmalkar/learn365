@@ -344,3 +344,4 @@ Day | Topic
 **324** | [**<ul><li>Account Hijacking via Invite Flows</li></ul><ul><li>Privilege Escalation: Unauthorized Low-Privilege Users Creating Feature Bundles</li></ul>**](/Days/Day324.md)
 **325** | [**<ul><li>Chaining CORS by Reflected XSS to Steal Sensitive Data</li></ul><ul><li>My First IDOR - Hiding in the Header Request</li></ul><ul><li> Where to hunt for XXE (XML External Entity)</li></ul>**](/Days/Day325.md)
 **326** | [**<ul><li>Everything about full-time bug bounty</li></ul>**](https://www.youtube.com/watch?v=HwbEmHJGpcM&ab_channel=BugBountyReportsExplained)
+**327** | [**<ul><li>Mass Hunting XSS vulnerabilities</li></ul><ul><li>Semi-Automating IDORs: A Practical Approach to Working Smarter, Not Harder</li></ul>**](/Days/Day327.md)
