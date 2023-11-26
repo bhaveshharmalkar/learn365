@@ -347,3 +347,4 @@ Day | Topic
 **327** | [**<ul><li>Mass Hunting XSS vulnerabilities</li></ul><ul><li>Semi-Automating IDORs: A Practical Approach to Working Smarter, Not Harder</li></ul>**](/Days/Day327.md)
 **328** | [**<ul><li>Building a free Burp Collaborator with Cloudflare Workers</li></ul><ul><li>How to tackle unpredictable IDs in IDOR or RBAC Issues?</li></ul>**](/Days/Day328.md)
 **329** | [**<ul><li>How I Made $$$ Using Open-Redirect</li></ul><ul><li>First massive bug: Noise’s AWS Bucket Misconfiguration</li></ul>**](/Days/Day329.md)
+**330** | [**<ul><li>Critical misconfiguration in Firebase</li></ul><ul><li>How i get my first Logic Bug and how to find them</li></ul><ul><li>RCE case study</li></ul>**](/Days/Day330.md)
