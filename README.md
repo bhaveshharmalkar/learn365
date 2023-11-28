@@ -349,3 +349,4 @@ Day | Topic
 **329** | [**<ul><li>How I Made $$$ Using Open-Redirect</li></ul><ul><li>First massive bug: Noise’s AWS Bucket Misconfiguration</li></ul>**](/Days/Day329.md)
 **330** | [**<ul><li>Critical misconfiguration in Firebase</li></ul><ul><li>How i get my first Logic Bug and how to find them</li></ul><ul><li>RCE case study</li></ul>**](/Days/Day330.md)
 **331** | [**<ul><li>How to approach restricted bug bounty programs with a single site in scope?</li></ul>**](https://twitter.com/Jayesh25_/status/1728677351947423785?t=pyq8_pCAMs8sN2U7kqSqkw&s=19)
+**332** | [**<ul><li>Navigating Risks: Vulnerability Stemming from a Third-Party Integration</li></ul><ul><li>Unlocking GraphQL's Hidden Potential</li></ul>**](/Days/Day332.md)
