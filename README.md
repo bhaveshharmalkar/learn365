@@ -351,3 +351,4 @@ Day | Topic
 **331** | [**<ul><li>How to approach restricted bug bounty programs with a single site in scope?</li></ul>**](https://twitter.com/Jayesh25_/status/1728677351947423785?t=pyq8_pCAMs8sN2U7kqSqkw&s=19)
 **332** | [**<ul><li>Navigating Risks: Vulnerability Stemming from a Third-Party Integration</li></ul><ul><li>Unlocking GraphQL's Hidden Potential</li></ul>**](/Days/Day332.md)
 **333** | [**<ul><li>PII Disclosure Worth $750</li></ul><ul><li>DoS via Password Strength Checker Function</li></ul>**](/Days/Day333.md)
+**334** | [**<ul><li>CRLF to XSS</li></ul><ul><li>How to Spot CORS Misconfigurations?</li></ul>**](/Days/Day334.md)
