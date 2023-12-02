@@ -353,3 +353,4 @@ Day | Topic
 **333** | [**<ul><li>PII Disclosure Worth $750</li></ul><ul><li>DoS via Password Strength Checker Function</li></ul>**](/Days/Day333.md)
 **334** | [**<ul><li>CRLF to XSS</li></ul><ul><li>How to Spot CORS Misconfigurations?</li></ul>**](/Days/Day334.md)
 **335** | [**<ul><li>Race Condition - A cURL Chaos</li></ul>**](https://shahjerry33.medium.com/race-condition-a-curl-chaos-820cb289cbf1)
+**336** | [**<ul><li>Where to find SSRF Issues?</li></ul>**](https://twitter.com/Jayesh25_/status/1723270079444402561)
