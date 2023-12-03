@@ -354,3 +354,4 @@ Day | Topic
 **334** | [**<ul><li>CRLF to XSS</li></ul><ul><li>How to Spot CORS Misconfigurations?</li></ul>**](/Days/Day334.md)
 **335** | [**<ul><li>Race Condition - A cURL Chaos</li></ul>**](https://shahjerry33.medium.com/race-condition-a-curl-chaos-820cb289cbf1)
 **336** | [**<ul><li>Where to find SSRF Issues?</li></ul>**](https://twitter.com/Jayesh25_/status/1723270079444402561)
+**337** | [**<ul><li>Business Logic Vulnerability: Payment bypass</li></ul><ul><li>Tips for Approaching the Main App of a Program</li></ul>**](/Days/Day337.md)
