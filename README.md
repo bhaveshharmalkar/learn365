@@ -356,3 +356,4 @@ Day | Topic
 **336** | [**<ul><li>Where to find SSRF Issues?</li></ul>**](https://twitter.com/Jayesh25_/status/1723270079444402561)
 **337** | [**<ul><li>Business Logic Vulnerability: Payment bypass</li></ul><ul><li>Tips for Approaching the Main App of a Program</li></ul>**](/Days/Day337.md)
 **338** | [**<ul><li>Hacking a Payment Processor</li></ul>**](https://www.youtube.com/watch?v=Favxo01aK50&ab_channel=NahamSec)
+**339** | [**<ul><li>PDF Upload Leading to Stored XSS</li></ul>**](https://medium.com/@katmaca2014/pdf-upload-leading-to-stored-xss-f712326705ee)
