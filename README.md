@@ -359,3 +359,4 @@ Day | Topic
 **339** | [**<ul><li>PDF Upload Leading to Stored XSS</li></ul>**](https://medium.com/@katmaca2014/pdf-upload-leading-to-stored-xss-f712326705ee)
 **340** | [**<ul><li>How I Discovered SSRF on Hackerone Program</li></ul>**](https://medium.com/@kerstanhgnhzhw/how-i-discovered-ssrf-on-hackerone-program-42b73c1aa716)
 **341** | [**<ul><li>Unraveling The Story of Multiple Admin Panel Compromises</li></ul>**](https://vedanttekale20.medium.com/unraveling-the-story-of-multiple-admin-panel-compromises-baac4444285f)
+**342** | [**<ul><li>3 Symfony (RCE): A Peek Behind the Curtain</li></ul>**](https://medium.com/@bxrowski0x/3-symfony-rce-a-peek-behind-the-curtain-83da5433e149)
