@@ -361,3 +361,4 @@ Day | Topic
 **341** | [**<ul><li>Unraveling The Story of Multiple Admin Panel Compromises</li></ul>**](https://vedanttekale20.medium.com/unraveling-the-story-of-multiple-admin-panel-compromises-baac4444285f)
 **342** | [**<ul><li>3 Symfony (RCE): A Peek Behind the Curtain</li></ul>**](https://medium.com/@bxrowski0x/3-symfony-rce-a-peek-behind-the-curtain-83da5433e149)
 **343** | [**<ul><li>How to not implement payment features - Insights from Bugbounty</li></ul>**](https://medium.com/@sivakrishnasamireddi/how-to-not-implement-payment-features-insights-from-bugbounty-e3d375566ad0)
+**344** | [**<ul><li>Bypassing CSRF Protection Like a Pro</li></ul>**](https://bugbase.in/blog/Bypassing-CSRF-Protection-Like-a-Pro)
