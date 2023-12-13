@@ -363,3 +363,4 @@ Day | Topic
 **343** | [**<ul><li>How to not implement payment features - Insights from Bugbounty</li></ul>**](https://medium.com/@sivakrishnasamireddi/how-to-not-implement-payment-features-insights-from-bugbounty-e3d375566ad0)
 **344** | [**<ul><li>Bypassing CSRF Protection Like a Pro</li></ul>**](https://bugbase.in/blog/Bypassing-CSRF-Protection-Like-a-Pro)
 **345** | [**<ul><li>Easy Admin Access — RVDP</li></ul>**](https://infosecwriteups.com/easy-admin-access-rvdp-d1eb2c97cb3e)
+**346** | [**<ul><li>Exploiting Django Debug Mode for Unrestricted Access to the Internal Dashboard?</li></ul>**](https://rokkamvamsi18.medium.com/exploiting-django-debug-mode-for-unrestricted-access-to-the-internal-dashboard-b725783714ae)
