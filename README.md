@@ -364,3 +364,4 @@ Day | Topic
 **344** | [**<ul><li>Bypassing CSRF Protection Like a Pro</li></ul>**](https://bugbase.in/blog/Bypassing-CSRF-Protection-Like-a-Pro)
 **345** | [**<ul><li>Easy Admin Access — RVDP</li></ul>**](https://infosecwriteups.com/easy-admin-access-rvdp-d1eb2c97cb3e)
 **346** | [**<ul><li>Exploiting Django Debug Mode for Unrestricted Access to the Internal Dashboard?</li></ul>**](https://rokkamvamsi18.medium.com/exploiting-django-debug-mode-for-unrestricted-access-to-the-internal-dashboard-b725783714ae)
+**347** | [**<ul><li>Remote Code execution at ws1.aholdusa.com — Compromising logins of Ahold Delhaize USA employees for >3.5 years (or even 18 years?)</li></ul>**](https://medium.com/@jonathanbouman/remote-code-execution-at-ws1-aholdusa-com-compromising-logins-of-ahold-delhaize-usa-employees-c7c9aca7e05d)
