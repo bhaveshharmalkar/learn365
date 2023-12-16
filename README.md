@@ -367,3 +367,4 @@ Day | Topic
 **347** | [**<ul><li>Remote Code execution at ws1.aholdusa.com — Compromising logins of Ahold Delhaize USA employees for >3.5 years (or even 18 years?)</li></ul>**](https://medium.com/@jonathanbouman/remote-code-execution-at-ws1-aholdusa-com-compromising-logins-of-ahold-delhaize-usa-employees-c7c9aca7e05d)
 **348** | [**<ul><li>One port can be a costly mistake Attack The Rsync Service in a Private Program</li></ul>**](https://medium.com/@sword0x00/one-port-can-be-a-costly-mistake-attack-the-rsync-service-in-a-private-program-cdbf9ecc650d)
 **349** | [**<ul><li>Escalating DOM XSS to Stored XSS</li></ul>**](https://medium.com/@rodriguezjorgex/escalating-dom-xss-to-stored-xss-eb6f3a669af3)
+**350** | [**<ul><li>Subdomain Takeover in Azure Trafficmanager for Fun & Profit</li></ul>**](https://padsalatushal.medium.com/subdomain-takeover-in-azure-trafficmanager-for-fun-profit-09c858ca3d0e)
