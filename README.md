@@ -368,3 +368,4 @@ Day | Topic
 **348** | [**<ul><li>One port can be a costly mistake Attack The Rsync Service in a Private Program</li></ul>**](https://medium.com/@sword0x00/one-port-can-be-a-costly-mistake-attack-the-rsync-service-in-a-private-program-cdbf9ecc650d)
 **349** | [**<ul><li>Escalating DOM XSS to Stored XSS</li></ul>**](https://medium.com/@rodriguezjorgex/escalating-dom-xss-to-stored-xss-eb6f3a669af3)
 **350** | [**<ul><li>Subdomain Takeover in Azure Trafficmanager for Fun & Profit</li></ul>**](https://padsalatushal.medium.com/subdomain-takeover-in-azure-trafficmanager-for-fun-profit-09c858ca3d0e)
+**351** | [**<ul><li>SSTI gave me T-Shirt + € 50</li></ul><ul><li>XSSRF : The Matrimony of XSS and SSRF.</li></ul>**](/Days/Day351.md)
