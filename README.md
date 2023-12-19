@@ -370,3 +370,4 @@ Day | Topic
 **350** | [**<ul><li>Subdomain Takeover in Azure Trafficmanager for Fun & Profit</li></ul>**](https://padsalatushal.medium.com/subdomain-takeover-in-azure-trafficmanager-for-fun-profit-09c858ca3d0e)
 **351** | [**<ul><li>SSTI gave me T-Shirt + € 50</li></ul><ul><li>XSSRF : The Matrimony of XSS and SSRF.</li></ul>**](/Days/Day351.md)
 **352** | [**<ul><li>Self-XSS to Stored XSS</li></ul>**](https://medium.com/@rodriguezjorgex/self-xss-to-stored-xss-b4b999610c5b)
+**353** | [**<ul><li>This Is The Story Of Making Almost $50,000 In Bounties From Adobe's VIP Bug Bounty Program💰</li></ul>**](https://naaash-adobe.simple.ink/)
