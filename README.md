@@ -372,3 +372,4 @@ Day | Topic
 **352** | [**<ul><li>Self-XSS to Stored XSS</li></ul>**](https://medium.com/@rodriguezjorgex/self-xss-to-stored-xss-b4b999610c5b)
 **353** | [**<ul><li>This Is The Story Of Making Almost $50,000 In Bounties From Adobe's VIP Bug Bounty Program💰</li></ul>**](https://naaash-adobe.simple.ink/)
 **354** | [**<ul><li>How I Found SQL Injection worth of $4,000 bounty</li></ul><ul><li>The Ultimate Guide to Uncovering XSS Vulnerabilities at Scale</li></ul>**](/Days/Day354.md)
+**355** | [**<ul><li>CVE-2023–43837: Two-Factor Authentication (x2FA) Bypass Vulnerability in Roundcube Webmail Plugin</li></ul>**](https://medium.com/@ChandSingh/cve-2023-43837-two-factor-authentication-x2fa-bypass-vulnerability-in-roundcube-webmail-plugin-f2fef177187e)
