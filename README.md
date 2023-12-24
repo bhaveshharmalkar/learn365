@@ -374,3 +374,5 @@ Day | Topic
 **354** | [**<ul><li>How I Found SQL Injection worth of $4,000 bounty</li></ul><ul><li>The Ultimate Guide to Uncovering XSS Vulnerabilities at Scale</li></ul>**](/Days/Day354.md)
 **355** | [**<ul><li>CVE-2023–43837: Two-Factor Authentication (x2FA) Bypass Vulnerability in Roundcube Webmail Plugin</li></ul>**](https://medium.com/@ChandSingh/cve-2023-43837-two-factor-authentication-x2fa-bypass-vulnerability-in-roundcube-webmail-plugin-f2fef177187e)
 **356** | [**<ul><li>The ART of Chaining Vulnerabilities</li></ul>**](https://ahmdhalabi.medium.com/the-art-of-chaining-vulnerabilities-e65382b7c627)
+**357** | [**<ul><li>Privilege escalation and arbitrary page tampering in Cloudflare Pages</li></ul>**](https://blog-ryotak-net.translate.goog/post/cloudflare-pages-privesc-and-page-tampering/?_x_tr_sl=ja&_x_tr_tl=en)
+**358** | [**<ul><li>How I Discovered an RCE Vulnerability in Tesla, Securing a $10,000 Bounty</li></ul>**](https://medium.com/@sahul1996l/how-i-discovered-an-rce-vulnerability-in-tesla-securing-a-10-000-bounty-62e725c2a6bd)
