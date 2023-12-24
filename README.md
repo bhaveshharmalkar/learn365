@@ -373,3 +373,4 @@ Day | Topic
 **353** | [**<ul><li>This Is The Story Of Making Almost $50,000 In Bounties From Adobe's VIP Bug Bounty Program💰</li></ul>**](https://naaash-adobe.simple.ink/)
 **354** | [**<ul><li>How I Found SQL Injection worth of $4,000 bounty</li></ul><ul><li>The Ultimate Guide to Uncovering XSS Vulnerabilities at Scale</li></ul>**](/Days/Day354.md)
 **355** | [**<ul><li>CVE-2023–43837: Two-Factor Authentication (x2FA) Bypass Vulnerability in Roundcube Webmail Plugin</li></ul>**](https://medium.com/@ChandSingh/cve-2023-43837-two-factor-authentication-x2fa-bypass-vulnerability-in-roundcube-webmail-plugin-f2fef177187e)
+**356** | [**<ul><li>The ART of Chaining Vulnerabilities</li></ul>**](https://ahmdhalabi.medium.com/the-art-of-chaining-vulnerabilities-e65382b7c627)
