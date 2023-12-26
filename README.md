@@ -377,3 +377,4 @@ Day | Topic
 **357** | [**<ul><li>Privilege escalation and arbitrary page tampering in Cloudflare Pages</li></ul>**](https://blog-ryotak-net.translate.goog/post/cloudflare-pages-privesc-and-page-tampering/?_x_tr_sl=ja&_x_tr_tl=en)
 **358** | [**<ul><li>How I Discovered an RCE Vulnerability in Tesla, Securing a $10,000 Bounty</li></ul>**](https://medium.com/@sahul1996l/how-i-discovered-an-rce-vulnerability-in-tesla-securing-a-10-000-bounty-62e725c2a6bd)
 **359** | [**<ul><li>Account takeover vulnerability that resulted in $2500 bounty!</li></ul>**](https://medium.com/@deadoverflow/account-takeover-vulnerability-that-resulted-in-2500-bounty-e1618363878d)
+**360** | [**<ul><li>The Tale Of Insecure Deserialization: A Journey From Serialization To Exploitation</li></ul>**](https://medium.com/@kavish2002ev3/the-tale-of-insecure-deserialization-a-journey-from-serialization-to-exploitation-47400a4c9093)
