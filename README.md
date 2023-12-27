@@ -378,3 +378,4 @@ Day | Topic
 **358** | [**<ul><li>How I Discovered an RCE Vulnerability in Tesla, Securing a $10,000 Bounty</li></ul>**](https://medium.com/@sahul1996l/how-i-discovered-an-rce-vulnerability-in-tesla-securing-a-10-000-bounty-62e725c2a6bd)
 **359** | [**<ul><li>Account takeover vulnerability that resulted in $2500 bounty!</li></ul>**](https://medium.com/@deadoverflow/account-takeover-vulnerability-that-resulted-in-2500-bounty-e1618363878d)
 **360** | [**<ul><li>The Tale Of Insecure Deserialization: A Journey From Serialization To Exploitation</li></ul>**](https://medium.com/@kavish2002ev3/the-tale-of-insecure-deserialization-a-journey-from-serialization-to-exploitation-47400a4c9093)
+**361** | [**<ul><li>How you can escalate XSS Issues to an Account Takeover</li></ul>**](https://twitter.com/Jayesh25_/status/1739930652835733610)
