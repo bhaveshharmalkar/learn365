@@ -379,3 +379,4 @@ Day | Topic
 **359** | [**<ul><li>Account takeover vulnerability that resulted in $2500 bounty!</li></ul>**](https://medium.com/@deadoverflow/account-takeover-vulnerability-that-resulted-in-2500-bounty-e1618363878d)
 **360** | [**<ul><li>The Tale Of Insecure Deserialization: A Journey From Serialization To Exploitation</li></ul>**](https://medium.com/@kavish2002ev3/the-tale-of-insecure-deserialization-a-journey-from-serialization-to-exploitation-47400a4c9093)
 **361** | [**<ul><li>How you can escalate XSS Issues to an Account Takeover</li></ul>**](https://twitter.com/Jayesh25_/status/1739930652835733610)
+**362** | [**<ul><li>Bug Bounty: The road to my first $1000 through hacking public websites</li></ul>**](https://swehtpantz.medium.com/bug-bounty-the-road-to-my-first-1000-through-hacking-public-websites-a0e2aa1b7271)
