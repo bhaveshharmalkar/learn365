@@ -382,3 +382,4 @@ Day | Topic
 **362** | [**<ul><li>Bug Bounty: The road to my first $1000 through hacking public websites</li></ul>**](https://swehtpantz.medium.com/bug-bounty-the-road-to-my-first-1000-through-hacking-public-websites-a0e2aa1b7271)
 **363** | [**<ul><li>How to Identify and exploit Akamai Cache Deception/Poisoning Issues?</li></ul>**](https://twitter.com/Jayesh25_/status/1740661740897960240)
 **364** | [**<ul><li>Sudomain Takeover via Shopify(Easy Bounty $$$$)</li></ul><ul><li>New OWASP API Top 10 for Hackers</li></ul>**](/Days/Day364.md)
+**365** | [**<ul><li>417$ Simple IDOR: Unauthorized Contact Details Modification</li></ul><ul><li>From Google Dorking to Unauthorized AWS Account Access and Account Takeover</li></ul>**](/Days/Day365.md)
